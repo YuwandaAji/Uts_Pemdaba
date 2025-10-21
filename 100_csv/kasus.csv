@@ -1,0 +1,101 @@
+Kasus_ID,Perkara_Kasus,Deskripsi_Kasus,NIK,Pengacara_ID,Staf_ID,Tgl_Daftar,Tgl_Mulai,Tgl_Selesai,Hasil,Status_Kasus
+1,Gugatan Waris,Sengketa warisan tanah antar saudara,3501041203050001,13,56,2025-06-11,2025-06-15,2025-11-20,Menang,Selesai
+2,KDRT,Kasus kekerasan dalam rumah tangga,3501041203050002,44,79,2025-06-12,2025-06-18,2026-03-05,Kalah,Selesai
+3,Kepailitan,Permohonan pailit perusahaan dagang,3501041203050003,67,11,2025-06-13,2025-06-25,2026-08-10,Menang,Selesai
+4,Pelanggaran Hak Cipta,Penggunaan logo tanpa izin,3501041203050004,80,94,2025-06-14,2025-07-01,2026-01-28,Menang,Selesai
+5,Sengketa Tanah,Gugatan kepemilikan lahan sengketa,3501041203050005,17,3,2025-06-15,2025-07-05,2025-10-30,Menang,Selesai
+6,Penggelapan Dana,Kasus penggelapan dana nasabah bank,3501041203050006,31,48,2025-06-16,2025-07-10,2026-06-15,Proses,Proses
+7,Restrukturisasi Utang,Negosiasi utang-piutang perusahaan,3501041203050007,55,22,2025-06-17,2025-07-15,2025-12-01,Menang,Selesai
+8,Paten Inovasi,Pendaftaran dan perlindungan paten produk baru,3501041203050008,99,65,2025-06-18,2025-07-20,2026-04-22,Menang,Selesai
+9,Perceraian,Gugatan cerai dengan harta gono-gini,3501041203050009,1,88,2025-06-19,2025-07-25,2026-02-14,Kalah,Selesai
+10,Pencurian Berat,Tindak pidana pencurian disertai kekerasan,3501041203050010,40,33,2025-06-20,2025-08-01,2026-10-01,Kalah,Selesai
+11,Merger & Akuisisi,Pendampingan proses penggabungan dua perusahaan,3501041203050011,53,60,2025-06-21,2025-08-05,2026-09-05,Menang,Selesai
+12,Sengketa Merek,Gugatan pembatalan merek terdaftar,3501041203050012,87,14,2025-06-22,2025-08-10,2025-11-03,Proses,Proses
+13,Wanprestasi,Gugatan atas ingkar janji dalam perjanjian sewa,3501041203050013,24,91,2025-06-23,2025-08-15,2026-01-19,Menang,Selesai
+14,Narkotika,Kasus penyalahgunaan narkoba jenis sabu,3501041203050014,35,76,2025-06-24,2025-08-20,2026-07-25,Kalah,Selesai
+15,Arbitrase Dagang,Penyelesaian sengketa kontrak bisnis internasional,3501041203050015,70,8,2025-06-25,2025-08-25,2026-03-11,Menang,Selesai
+16,Indikasi Geografis,Perlindungan produk khas daerah,3501041203050016,92,49,2025-06-26,2025-09-01,2026-05-09,Menang,Selesai
+17,Utang Piutang,Gugatan sederhana penagihan utang,3501041203050017,10,38,2025-06-27,2025-09-05,2026-01-04,Kalah,Selesai
+18,Penipuan & Penggelapan,Tindak pidana penipuan investasi,3501041203050018,48,72,2025-06-28,2025-09-10,2026-11-30,Proses,Proses
+19,PKPU,Permohonan PKPU oleh kreditur,3501041203050019,63,97,2025-06-29,2025-09-15,2026-04-07,Menang,Selesai
+20,Rahasia Dagang,Pembocoran formula rahasia perusahaan,3501041203050020,83,29,2025-06-30,2025-09-20,2026-02-01,Menang,Selesai
+21,Gugatan Pembatalan Akta,Pembatalan akta jual beli rumah,3501041203050021,5,54,2025-07-01,2025-09-25,2026-08-25,Menang,Selesai
+22,Korupsi,Kasus tindak pidana korupsi pejabat publik,3501041203050022,26,71,2025-07-02,2025-10-01,2027-01-01,Kalah,Selesai
+23,Sengketa Kontrak,Gugatan atas wanprestasi kontrak pembangunan,3501041203050023,73,16,2025-07-03,2025-10-05,2026-05-18,Proses,Proses
+24,Desain Industri,Perlindungan desain kemasan produk,3501041203050024,96,82,2025-07-04,2025-10-10,2026-03-29,Menang,Selesai
+25,Gugatan PMH,Gugatan pencemaran nama baik,3501041203050025,9,95,2025-07-05,2025-10-15,2026-09-10,Menang,Selesai
+26,Penganiayaan,Tindak pidana penganiayaan berat,3501041203050026,45,21,2025-07-06,2025-10-20,2026-04-12,Kalah,Selesai
+27,Sengketa Obligasi,Gugatan wanprestasi penerbitan obligasi,3501041203050027,51,36,2025-07-07,2025-10-25,2026-10-20,Menang,Selesai
+28,PVT,Pendaftaran varietas tanaman unggul,3501041203050028,84,77,2025-07-08,2025-11-01,2026-05-01,Menang,Selesai
+29,Pembagian Harta Gono-gini,Sengketa pembagian aset setelah perceraian,3501041203050029,20,59,2025-07-09,2025-11-05,2026-01-08,Menang,Selesai
+30,Pemalsuan Dokumen,Tindak pidana penggunaan dokumen palsu,3501041203050030,38,10,2025-07-10,2025-11-10,2026-08-01,Kalah,Selesai
+31,Perkara Kredit Macet,Gugatan atas debitur yang gagal bayar kredit,3501041203050031,68,43,2025-07-11,2025-11-15,2026-03-24,Proses,Proses
+32,Eksploitasi Ciptaan,Gugatan atas penggunaan karya cipta tanpa lisensi,3501041203050032,77,89,2025-07-12,2025-11-20,2026-06-03,Menang,Selesai
+33,Adopsi Anak,Permohonan penetapan adopsi anak,3501041203050033,2,6,2025-07-13,2025-11-25,2026-02-17,Menang,Selesai
+34,Cyber Crime,Kasus pembobolan sistem data,3501041203050034,33,52,2025-07-14,2025-12-01,2027-02-14,Kalah,Selesai
+35,Sengketa Saham,Gugatan atas transaksi saham yang merugikan,3501041203050035,59,75,2025-07-15,2025-12-05,2026-10-05,Menang,Selesai
+36,Lisensi HKI,Penyusunan perjanjian lisensi merek,3501041203050036,94,18,2025-07-16,2025-12-10,2026-03-01,Menang,Selesai
+37,Sengketa Batas Tanah,Gugatan penetapan batas kepemilikan tanah,3501041203050037,16,62,2025-07-17,2025-12-15,2026-01-26,Menang,Selesai
+38,Kekerasan Seksual,Tindak pidana pelecehan seksual,3501041203050038,36,4,2025-07-18,2025-12-20,2026-11-10,Proses,Proses
+39,Gugatan Pembubaran PT,Permohonan pembubaran perseroan terbatas,3501041203050039,71,84,2025-07-19,2026-01-01,2026-07-09,Menang,Selesai
+40,Sertifikasi Paten,Pengurusan sertifikasi paten invensi baru,3501041203050040,88,27,2025-07-20,2026-01-05,2026-05-15,Menang,Selesai
+41,Mediasi Perdata,Mediasi sengketa jual beli kendaraan,3501041203050041,21,57,2025-07-21,2026-01-10,2026-04-03,Kalah,Selesai
+42,Perampokan,Kasus perampokan toko emas,3501041203050042,47,19,2025-07-22,2026-01-15,2027-03-20,Kalah,Selesai
+43,Gugatan Ganti Rugi,Tuntutan ganti rugi atas kerusakan barang,3501041203050043,58,93,2025-07-23,2026-01-20,2026-11-01,Menang,Selesai
+44,Sengketa DTLST,Gugatan atas peniruan desain sirkuit,3501041203050044,79,34,2025-07-24,2026-01-25,2026-06-25,Menang,Selesai
+45,Sengketa Sewa Menyewa,Gugatan pengosongan rumah sewa,3501041203050045,11,69,2025-07-25,2026-02-01,2026-03-17,Menang,Selesai
+46,Penyelundupan,Kasus penyelundupan barang ilegal,3501041203050046,27,2,2025-07-26,2026-02-05,2027-01-15,Kalah,Selesai
+47,Sengketa Konsumen,Gugatan atas produk cacat dari produsen,3501041203050047,69,46,2025-07-27,2026-02-10,2026-08-08,Proses,Proses
+48,Perpanjangan Merek,Pengurusan perpanjangan hak merek dagang,3501041203050048,93,81,2025-07-28,2026-02-15,2026-07-02,Menang,Selesai
+49,Pelanggaran Kontrak Kerja,Gugatan PHK sepihak,3501041203050049,14,28,2025-07-29,2026-02-20,2026-05-29,Menang,Selesai
+50,Pencemaran Nama Baik,Laporan pidana pencemaran di media sosial,3501041203050050,42,50,2025-07-30,2026-02-25,2026-12-19,Kalah,Selesai
+51,Sengketa Perjanjian,Gugatan pembatalan perjanjian kerjasama,3501041203050051,56,86,2025-07-31,2026-03-01,2026-10-27,Menang,Selesai
+52,Pendaftaran Hak Cipta,Pengurusan pendaftaran hak cipta lagu,3501041203050052,90,70,2025-08-01,2026-03-05,2026-05-10,Menang,Selesai
+53,Sengketa Kekeluargaan,Gugatan pembagian harta bersama,3501041203050053,3,20,2025-08-02,2026-03-10,2026-06-07,Kalah,Selesai
+54,Impor Ilegal,Kasus impor barang tanpa dokumen resmi,3501041203050054,49,47,2025-08-03,2026-03-15,2027-04-01,Proses,Proses
+55,Sengketa Modal,Gugatan atas penyertaan modal yang tidak sesuai,3501041203050055,75,98,2025-08-04,2026-03-20,2026-09-29,Menang,Selesai
+56,Penciptaan Bersama,Perjanjian hak cipta karya kolaborasi,3501041203050056,86,30,2025-08-05,2026-03-25,2026-07-20,Menang,Selesai
+57,Sengketa Jual Beli,Gugatan pembatalan jual beli rumah,3501041203050057,7,61,2025-08-06,2026-04-01,2026-08-16,Menang,Selesai
+58,Penipuan Online,Laporan pidana penipuan melalui e-commerce,3501041203050058,28,40,2025-08-07,2026-04-05,2027-02-09,Kalah,Selesai
+59,Perlindungan Investor,Gugatan atas kerugian investasi saham,3501041203050059,57,83,2025-08-08,2026-04-10,2026-11-15,Proses,Proses
+60,Pelanggaran Paten,Gugatan atas peniruan produk yang telah dipatenkan,3501041203050060,95,55,2025-08-09,2026-04-15,2026-12-04,Menang,Selesai
+61,Gugatan Derden Verzet,Gugatan intervensi dalam kasus perdata,3501041203050061,22,7,2025-08-10,2026-04-20,2026-07-06,Menang,Selesai
+62,Kekerasan Anak,Tindak pidana kekerasan terhadap anak,3501041203050062,37,42,2025-08-11,2026-04-25,2027-03-25,Kalah,Selesai
+63,Sengketa Leasing,Gugatan atas penarikan barang leasing,3501041203050063,74,99,2025-08-12,2026-05-01,2026-10-18,Menang,Selesai
+64,Pembatalan Merek,Gugatan pembatalan merek karena itikad buruk,3501041203050064,81,15,2025-08-13,2026-05-05,2026-09-08,Menang,Selesai
+65,Gugatan Intervensi,Permohonan menjadi pihak dalam perkara perdata,3501041203050065,8,64,2025-08-14,2026-05-10,2026-08-28,Kalah,Selesai
+66,Perzinahan,Tindak pidana perzinahan,3501041203050066,32,96,2025-08-15,2026-05-15,2027-01-30,Proses,Proses
+67,Sengketa Perbankan,Gugatan atas penyalahgunaan rekening,3501041203050067,52,5,2025-08-16,2026-05-20,2026-11-25,Menang,Selesai
+68,Penelusuran Pemilik HKI,Pencarian pemilik hak cipta suatu karya,3501041203050068,91,66,2025-08-17,2026-05-25,2026-08-01,Menang,Selesai
+69,Sengketa Perdata Internasional,Gugatan wanprestasi lintas negara,3501041203050069,15,39,2025-08-18,2026-06-01,2026-12-10,Menang,Selesai
+70,Pornografi Anak,Kasus penyebaran konten pornografi anak,3501041203050070,41,41,2025-08-19,2026-06-05,2027-05-05,Kalah,Selesai
+71,Gugatan Perdata Perbankan,Sengketa kredit KPR,3501041203050071,60,9,2025-08-20,2026-06-10,2026-09-17,Proses,Proses
+72,Pendaftaran Merek Kolektif,Pengurusan merek untuk kelompok usaha,3501041203050072,85,63,2025-08-21,2026-06-15,2026-10-10,Menang,Selesai
+73,Pengangkatan Wali,Permohonan penetapan wali anak,3501041203050073,23,37,2025-08-22,2026-06-20,2026-09-03,Menang,Selesai
+74,Pencurian Biasa,Tindak pidana pencurian di pasar,3501041203050074,29,78,2025-08-23,2026-06-25,2027-01-20,Kalah,Selesai
+75,Gugatan Arbitrase,Pelaksanaan putusan arbitrase,3501041203050075,64,12,2025-08-24,2026-07-01,2026-11-29,Menang,Selesai
+76,Sengketa Hak Terkait,Gugatan atas penggunaan rekaman tanpa izin,3501041203050076,100,24,2025-08-25,2026-07-05,2026-12-14,Menang,Selesai
+77,Gugatan PMH Perbankan,Gugatan atas kesalahan sistem bank,3501041203050077,6,58,2025-08-26,2026-07-10,2026-10-09,Kalah,Selesai
+78,Penganiayaan Ringan,Laporan pidana penganiayaan ringan,3501041203050078,46,85,2025-08-27,2026-07-15,2027-02-02,Proses,Proses
+79,Restrukturisasi Korporasi,Pendampingan restrukturisasi anak perusahaan,3501041203050079,61,23,2025-08-28,2026-07-20,2026-12-08,Menang,Selesai
+80,Pelanggaran Ciptaan Musik,Gugatan atas penggunaan musik tanpa royalti,3501041203050080,82,73,2025-08-29,2026-07-25,2027-01-07,Menang,Selesai
+81,Sengketa Kontrak Kerjasama,Gugatan atas pembatalan proyek bersama,3501041203050081,18,67,2025-08-30,2026-08-01,2026-12-22,Menang,Selesai
+82,Pencabulan,Tindak pidana asusila terhadap anak,3501041203050082,34,35,2025-08-31,2026-08-05,2027-03-01,Kalah,Selesai
+83,Gugatan Perdagangan,Sengketa pengiriman barang ekspor-impor,3501041203050083,72,100,2025-09-01,2026-08-10,2026-11-04,Proses,Proses
+84,Perlindungan Hak Paten,Pengajuan permohonan paten sederhana,3501041203050084,98,25,2025-09-02,2026-08-15,2027-01-11,Menang,Selesai
+85,Gugatan Pembatalan Hibah,Pembatalan pemberian hibah karena cacat hukum,3501041203050085,4,68,2025-09-03,2026-08-20,2026-12-29,Menang,Selesai
+86,Penyebaran Berita Bohong (Hoaks),Laporan pidana UU ITE,3501041203050086,50,45,2025-09-04,2026-08-25,2027-02-06,Kalah,Selesai
+87,Sengketa Pasar Modal,Gugatan atas manipulasi harga saham,3501041203050087,54,74,2025-09-05,2026-09-01,2027-01-28,Menang,Selesai
+88,Sengketa Indikasi Geografis,Gugatan atas peniruan nama produk daerah,3501041203050088,76,26,2025-09-06,2026-09-05,2026-12-07,Menang,Selesai
+89,Gugatan Pembatalan Perjanjian,Pembatalan perjanjian sewa-beli,3501041203050089,12,77,2025-09-07,2026-09-10,2026-11-21,Menang,Selesai
+90,Kekerasan Fisik,Laporan tindak pidana kekerasan dalam keluarga,3501041203050090,30,51,2025-09-08,2026-09-15,2027-04-10,Proses,Proses
+91,Gugatan Anti Monopoli,Laporan persaingan usaha tidak sehat,3501041203050091,65,80,2025-09-09,2026-09-20,2027-03-15,Menang,Selesai
+92,Pendaftaran Hak Merek,Pengajuan pendaftaran merek dagang baru,3501041203050092,89,17,2025-09-10,2026-09-25,2027-01-04,Menang,Selesai
+93,Sengketa Keperdataan,Gugatan atas perusakan properti,3501041203050093,19,44,2025-09-11,2026-10-01,2026-12-16,Kalah,Selesai
+94,Pembunuhan Berencana,Kasus tindak pidana pembunuhan berencana,3501041203050094,43,92,2025-09-12,2026-10-05,2027-05-18,Kalah,Selesai
+95,Sengketa Modal Ventura,Gugatan atas pendanaan startup,3501041203050095,62,10,2025-09-13,2026-10-10,2027-02-01,Menang,Selesai
+96,Sengketa Hak Terkait,Gugatan atas penggunaan penampilan artis,3501041203050096,97,4,2025-09-14,2026-10-15,2027-01-25,Menang,Selesai
+97,Gugatan Pengosongan Objek Sengketa,Permintaan eksekusi pengosongan bangunan,3501041203050097,25,32,2025-09-15,2026-10-20,2027-01-18,Menang,Selesai
+98,Penghinaan,Laporan pidana penghinaan melalui media cetak,3501041203050098,39,87,2025-09-16,2026-10-25,2027-04-05,Proses,Proses
+99,Sengketa Konsorsium,Gugatan atas pembagian keuntungan konsorsium,3501041203050099,66,1,2025-09-17,2026-11-01,2027-03-29,Menang,Selesai
+100,Gugatan Hak Cipta,Gugatan atas peniruan novel,3501041203050100,78,31,2025-09-18,2026-11-05,2027-01-13,Menang,Selesai

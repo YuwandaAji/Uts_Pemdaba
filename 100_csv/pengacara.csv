@@ -1,0 +1,101 @@
+Pengacara_ID,Nama_Pengacara,Tgl_Bgb_Pca,Spesialisasi,No_Tlp_Pca,Alamat_Pengacara,Email_Pengacara,Tempat_Lahir_Pca,Tgl_Lhr_Pca,Gender_Pengacara
+1,Rizky Adityo,2024-01-15,Hukum Perdata,81211122201,Jl. Kenangan No. 1,rizky.adityo@law.com,Jakarta,1985-05-10,Laki-Laki
+2,Amelia Putri,2024-02-20,Hukum Pidana,81322233302,Komplek Elite Blok B,amelia.putri@law.com,Surabaya,1990-11-25,Wanita
+3,Bagus Setiawan,2024-03-05,Hukum Niaga,85733344403,Perumahan Indah Asri 4,bagus.setiawan@law.com,Bandung,1978-08-12,Laki-Laki
+4,Citra Handayani,2024-04-10,Hukum HKI,87844455504,Gg. Damai Sejati 12,citra.handayani@law.com,Yogyakarta,1995-03-03,Wanita
+5,Dian Permana,2024-05-15,Hukum Perdata,82155566605,Jl. Pahlawan No. 50,dian.permana@law.com,Medan,1982-12-18,Laki-Laki
+6,Eka Sari,2024-06-20,Hukum Pidana,85266677706,Kp. Sejahtera RT 01/RW 03,eka.sari@law.com,Semarang,1992-07-07,Wanita
+7,Farid Lukman,2024-07-25,Hukum Niaga,81577788807,Jl. Raya Utama Km. 2,farid.lukman@law.com,Malang,1988-04-01,Laki-Laki
+8,Gita Wulandari,2024-08-30,Hukum HKI,81888899908,Komplek Puri Mas G9,gita.wulandari@law.com,Jakarta,1997-09-16,Wanita
+9,Hadi Nugroho,2024-09-05,Hukum Perdata,85699900009,Jl. Merpati No. 33,hadi.nugroho@law.com,Surabaya,1980-06-29,Laki-Laki
+10,Indah Lestari,2024-10-10,Hukum Pidana,81900011110,Perumahan Sentosa A1,indah.lestari@law.com,Bandung,1994-01-22,Wanita
+11,Joko Susilo,2024-11-15,Hukum Niaga,81111122211,Jl. Kertajaya 45,joko.susilo@law.com,Bekasi,1975-10-05,Laki-Laki
+12,Kania Dewi,2024-12-20,Hukum HKI,85822233312,Gg. Mawar No. 7,kania.dewi@law.com,Bogor,1991-03-08,Wanita
+13,Lukman Hidayat,2025-01-25,Hukum Perdata,87733344413,Jl. Veteran 10,lukman.hidayat@law.com,Gresik,1984-11-03,Laki-Laki
+14,Mega Silviana,2025-02-01,Hukum Pidana,82244455514,Komplek Green Garden B2,mega.silviana@law.com,Sidoarjo,1999-06-19,Wanita
+15,Nugroho Jati,2025-02-15,Hukum Niaga,81655566615,Jl. Elang Merah 11,nugroho.jati@law.com,Palembang,1979-02-14,Laki-Laki
+16,Olivia Zahra,2025-03-02,Hukum HKI,85366677716,Perumahan Griya Abadi Z12,olivia.zahra@law.com,Makassar,1996-09-28,Wanita
+17,Pandu Wicaksono,2025-03-17,Hukum Perdata,81777788817,Jl. Cendrawasih No. 2,pandu.wicaksono@law.com,Depok,1986-04-20,Laki-Laki
+18,Qori Maulida,2025-04-01,Hukum Pidana,81488899918,Gg. Pelangi Indah 5,qori.maulida@law.com,Tangerang,1993-11-09,Wanita
+19,Rahmat Firdaus,2025-04-16,Hukum Niaga,85999900019,Jl. Setia Budi 77,rahmat.firdaus@law.com,Cirebon,1981-05-27,Laki-Laki
+20,Sinta Bela,2025-05-01,Hukum HKI,87900011120,Komplek Cipta Rasa A8,sinta.bela@law.com,Solo,1998-10-04,Wanita
+21,Teguh Prakoso,2025-05-16,Hukum Perdata,82300022221,Jl. Mawar Merah 1A,teguh.prakoso@law.com,Pekanbaru,1976-03-17,Laki-Laki
+22,Ulfah Khairani,2025-05-31,Hukum Pidana,81100033322,Perumahan Damai Sentosa H3,ulfah.khairani@law.com,Samarinda,1995-12-01,Wanita
+23,Vino G Bastian,2025-06-05,Hukum Niaga,85511144423,Jl. Gajah Mada 15,vino.g@law.com,Banjarmasin,1983-09-14,Laki-Laki
+24,Wulan Sari,2025-06-20,Hukum HKI,87622255524,Gg. Anggrek Hitam 20,wulan.sari@law.com,Padang,1990-04-29,Wanita
+25,Yudi Irawan,2025-07-05,Hukum Perdata,82033366625,Jl. Kembang Api 1,yudi.irawan@law.com,Denpasar,1977-11-23,Laki-Laki
+26,Zahra Ramadhani,2025-07-20,Hukum Pidana,81444477726,Komplek Nirwana Blok J1,zahra.r@law.com,Makassar,1997-02-08,Wanita
+27,Aldo Sanjaya,2025-08-04,Hukum Niaga,85155588827,Jl. Diponegoro 99,aldo.sanjaya@law.com,Jakarta,1989-08-02,Laki-Laki
+28,Bella Anjani,2025-08-19,Hukum HKI,87266699928,Perumahan Nusa Indah B3,bella.anjani@law.com,Surabaya,1994-05-21,Wanita
+29,Cahyo Widodo,2025-09-03,Hukum Perdata,82777700029,Gg. Sejahtera 33,cahyo.widodo@law.com,Bandung,1982-10-15,Laki-Laki
+30,Dina Kartika,2025-09-18,Hukum Pidana,81388811130,Jl. Mangga Dua 7,dina.kartika@law.com,Yogyakarta,2000-03-27,Wanita
+31,Edo Mahendra,2025-10-03,Hukum Niaga,85499922231,Jl. Cempaka Putih 17,edo.mahendra@law.com,Medan,1979-01-09,Laki-Laki
+32,Fira Agustin,2025-10-18,Hukum HKI,87500033332,Komplek Harmoni Indah D1,fira.agustin@law.com,Semarang,1996-08-03,Wanita
+33,Gilang Dirga,2025-11-02,Hukum Perdata,82911144433,Jl. Sudirman 88,gilang.dirga@law.com,Malang,1987-05-18,Laki-Laki
+34,Hana Safitri,2025-11-17,Hukum Pidana,81022255534,Perumahan Mutiara Blok G2,hana.safitri@law.com,Jakarta,1992-12-04,Wanita
+35,Iqbal Ramadhan,2025-12-02,Hukum Niaga,85333366635,Jl. Rajawali No. 30,iqbal.ramadhan@law.com,Surabaya,1985-07-28,Laki-Laki
+36,Juwita Sari,2025-12-17,Hukum HKI,87444477736,Gg. Damai Sejati 5,juwita.sari@law.com,Bandung,1999-02-11,Wanita
+37,Kevin Sanjaya,2026-01-01,Hukum Perdata,82855588837,Jl. Pahlawan Seribu 6,kevin.sanjaya@law.com,Bekasi,1980-09-06,Laki-Laki
+38,Lia Oktaviani,2026-01-16,Hukum Pidana,81266699938,Komplek Bintang Timur C7,lia.oktaviani@law.com,Bogor,1994-04-26,Wanita
+39,Miko Wirawan,2026-01-31,Hukum Niaga,85077700039,Jl. Kucing Garong 1,miko.wirawan@law.com,Gresik,1975-01-19,Laki-Laki
+40,Nadia Putri,2026-02-15,Hukum HKI,87188811140,Perumahan Griya Asri No. 1,nadia.putri@law.com,Sidoarjo,1991-10-14,Wanita
+41,Oka Antara,2026-03-02,Hukum Perdata,82699922241,Jl. Sukamaju 44,oka.antara@law.com,Palembang,1984-03-01,Laki-Laki
+42,Puput Melati,2026-03-17,Hukum Pidana,81300033342,Gg. Tenang No. 2,puput.melati@law.com,Makassar,1998-08-20,Wanita
+43,Robby Purba,2026-04-01,Hukum Niaga,85411144443,Jl. Senopati 5,robby.purba@law.com,Depok,1979-12-06,Laki-Laki
+44,Salsabila Adriani,2026-04-16,Hukum HKI,87522255544,Komplek Indah Jaya E3,salsabila.a@law.com,Tangerang,1996-05-15,Wanita
+45,Tora Sudiro,2026-05-01,Hukum Perdata,82933366645,Jl. Gajah Mada 10,tora.sudiro@law.com,Cirebon,1986-02-09,Laki-Laki
+46,Vania Valencia,2026-05-16,Hukum Pidana,81044477746,Perumahan Elok Blok F1,vania.v@law.com,Solo,1993-07-24,Wanita
+47,Wisnu Wardhana,2026-05-31,Hukum Niaga,85355588847,Jl. Hutan Kota 21,wisnu.w@law.com,Pekanbaru,1977-10-18,Laki-Laki
+48,Yulia Rachman,2026-06-05,Hukum HKI,87466699948,Gg. Belakang No. 9,yulia.r@law.com,Samarinda,2000-04-03,Wanita
+49,Zainal Arifin,2026-06-20,Hukum Perdata,82877700049,Jl. Ciliwung 15,zainal.arifin@law.com,Banjarmasin,1983-01-28,Laki-Laki
+50,Aura Kasih,2026-07-05,Hukum Pidana,81288811150,Komplek Permai Indah K2,aura.kasih@law.com,Padang,1997-09-12,Wanita
+51,Bayu Oktara,2026-07-20,Hukum Niaga,85099922251,Jl. Kelapa Hijau 33,bayu.oktara@law.com,Denpasar,1978-06-23,Laki-Laki
+52,Cindy Claudia,2026-08-04,Hukum HKI,87100033352,Perumahan Sentosa Jaya No. 18,cindy.c@law.com,Makassar,1994-01-06,Wanita
+53,Donny Alamsyah,2026-08-19,Hukum Perdata,82611144453,Jl. Bambu Runcing 7,donny.alamsyah@law.com,Jakarta,1981-11-30,Laki-Laki
+54,Eva Celia,2026-09-03,Hukum Pidana,81322255554,Gg. Mawar Indah 6,eva.celia@law.com,Surabaya,1999-05-25,Wanita
+55,Fandy Christian,2026-09-18,Hukum Niaga,85433366655,Jl. Nila No. 25,fandy.c@law.com,Bandung,1976-04-14,Laki-Laki
+56,Gita Virga,2026-10-03,Hukum HKI,87544477756,Komplek Cipta Rasa A8,gita.virga@law.com,Yogyakarta,1992-12-30,Wanita
+57,Hengky Kurniawan,2026-10-18,Hukum Perdata,82955588857,Jl. Buntu No. 1,hengky.k@law.com,Medan,1985-09-04,Laki-Laki
+58,Irish Bella,2026-11-02,Hukum Pidana,81066699958,Perumahan Sukses Bersama 3,irish.b@law.com,Semarang,2000-06-19,Wanita
+59,Jeremy Thomas,2026-11-17,Hukum Niaga,85377700059,Jl. Kemang Raya 50,jeremy.t@law.com,Malang,1979-03-12,Laki-Laki
+60,Kartika Putri,2026-12-02,Hukum HKI,87488811160,Gg. Lurus 20,kartika.p@law.com,Jakarta,1997-10-27,Wanita
+61,Lucky Hakim,2026-12-17,Hukum Perdata,82899922261,Jl. Kapten Tendean 1,lucky.h@law.com,Surabaya,1983-05-01,Laki-Laki
+62,Nadila Ernesta,2027-01-01,Hukum Pidana,81200033362,Komplek Damai Sentosa H9,nadila.e@law.com,Bandung,1994-11-16,Wanita
+63,Omesh,2027-01-16,Hukum Niaga,85011144463,Jl. Semanggi No. 6,omesh.o@law.com,Bekasi,1978-02-28,Laki-Laki
+64,Pipik Dian,2027-01-31,Hukum HKI,87122255564,Perumahan Sehat Selalu A1,pipik.dian@law.com,Bogor,1991-09-04,Wanita
+65,Rio Dewanto,2027-02-15,Hukum Perdata,82633366665,Jl. Kemerdekaan 17,rio.d@law.com,Gresik,1984-07-20,Laki-Laki
+66,Siti Badriah,2027-03-02,Hukum Pidana,81344477766,Gg. Sempit No. 3,siti.b@law.com,Sidoarjo,1999-04-05,Wanita
+67,Tio Pakusadewo,2027-03-17,Hukum Niaga,85455588867,Jl. Ratu Agung 22,tio.p@law.com,Palembang,1977-01-02,Laki-Laki
+68,Ussy Sulistiawaty,2027-04-01,Hukum HKI,87566699968,Komplek Senayan City D5,ussy.s@law.com,Makassar,1995-08-17,Wanita
+69,Verdi Solaiman,2027-04-16,Hukum Perdata,82977700069,Jl. Hang Tuah 13,verdi.s@law.com,Depok,1982-03-29,Laki-Laki
+70,Yasmine Wildblood,2027-05-01,Hukum Pidana,81088811170,Perumahan Eksklusif No. 7,yasmine.w@law.com,Tangerang,2000-10-13,Wanita
+71,Agus Yudhoyono,2027-05-16,Hukum Niaga,85399922271,Jl. Kuda Lari 99,agus.y@law.com,Cirebon,1976-12-25,Laki-Laki
+72,Bunga Zainal,2027-05-31,Hukum HKI,87400033372,Gg. Panjang 11,bunga.z@law.com,Solo,1993-06-10,Wanita
+73,Chico Jericho,2027-06-05,Hukum Perdata,82811144473,Jl. Pahlawan 3A,chico.j@law.com,Pekanbaru,1985-01-05,Laki-Laki
+74,Dewi Sandra,2027-06-20,Hukum Pidana,81222255574,Komplek Ceria Blok B10,dewi.sandra@law.com,Samarinda,1997-07-20,Wanita
+75,Fachri Albar,2027-07-05,Hukum Niaga,85033366675,Jl. Angkasa No. 1,fachri.a@law.com,Banjarmasin,1978-04-16,Laki-Laki
+76,Gading Marten,2027-07-20,Hukum HKI,87144477776,Perumahan Bahagia Hati 5,gading.m@law.com,Padang,1994-11-01,Laki-Laki
+77,Hannah Al Rashid,2027-08-04,Hukum Perdata,82655588877,Jl. Rusa 8,hannah.a@law.com,Denpasar,1981-10-26,Wanita
+78,Indra Brugman,2027-08-19,Hukum Pidana,81366699978,Gg. Lebar 15,indra.b@law.com,Makassar,1999-05-11,Laki-Laki
+79,Jefri Nichol,2027-09-03,Hukum Niaga,85477700079,Jl. Jenderal Sudirman 2,jefri.n@law.com,Jakarta,1976-03-24,Laki-Laki
+80,Kezia Warouw,2027-09-18,Hukum HKI,87588811180,Komplek Mewah Abadi C3,kezia.w@law.com,Surabaya,1992-10-09,Wanita
+81,Lukman Sardi,2027-10-03,Hukum Perdata,82999922281,Jl. Bromo 40,lukman.s@law.com,Bandung,1985-04-23,Laki-Laki
+82,Marsha Timothy,2027-10-18,Hukum Pidana,81000033382,Perumahan Hijau Asri L4,marsha.t@law.com,Yogyakarta,2000-11-08,Wanita
+83,Nino Fernandez,2027-11-02,Hukum Niaga,85311144483,Jl. Melati No. 19,nino.f@law.com,Medan,1979-07-01,Laki-Laki
+84,Olivia Jensen,2027-11-17,Hukum HKI,87422255584,Gg. Sunyi No. 12,olivia.j@law.com,Semarang,1997-02-15,Wanita
+85,Revalina S Temat,2027-12-02,Hukum Perdata,82833366685,Jl. Perjuangan 60,revalina.s@law.com,Malang,1983-11-20,Wanita
+86,Samuel Zylgwyn,2027-12-17,Hukum Pidana,81244477786,Komplek Duta Indah F7,samuel.z@law.com,Jakarta,1999-06-05,Laki-Laki
+87,Tanta Ginting,2028-01-01,Hukum Niaga,85055588887,Jl. Sam Ratulangi 27,tanta.g@law.com,Surabaya,1976-03-29,Laki-Laki
+88,Velove Vexia,2028-01-16,Hukum HKI,87166699988,Perumahan Rakyat C2,velove.v@law.com,Bandung,1993-10-14,Wanita
+89,Winky Wiryawan,2028-01-31,Hukum Perdata,82677700089,Jl. Menteng Raya 8,winky.w@law.com,Bekasi,1980-05-09,Laki-Laki
+90,Yuki Kato,2028-02-15,Hukum Pidana,81388811190,Gg. Miring No. 4,yuki.kato@law.com,Bogor,1998-12-24,Wanita
+91,Zaskia Adya Mecca,2028-03-02,Hukum Niaga,85499922291,Jl. Buah Batu 55,zaskia.a@law.com,Gresik,1977-09-17,Wanita
+92,Ario Bayu,2028-03-17,Hukum HKI,87500033392,Komplek Nirwana Blok J1,ario.b@law.com,Sidoarjo,1995-04-02,Laki-Laki
+93,Baim Wong,2028-04-01,Hukum Perdata,82911144493,Jl. Pangeran Antasari 30,baim.wong@law.com,Palembang,1982-11-17,Laki-Laki
+94,Cathy Sharon,2028-04-16,Hukum Pidana,81022255594,Perumahan Nusa Tenggara 9,cathy.s@law.com,Makassar,2000-06-02,Wanita
+95,Darius Sinathrya,2028-05-01,Hukum Niaga,85333366695,Jl. Ciliwung No. 1,darius.s@law.com,Depok,1979-01-26,Laki-Laki
+96,Enzy Storia,2028-05-16,Hukum HKI,87444477796,Gg. Pelangi 18,enzy.storia@law.com,Tangerang,1996-08-11,Wanita
+97,Fedi Nuril,2028-05-31,Hukum Perdata,82855588897,Jl. Merapi No. 2,fedi.nuril@law.com,Cirebon,1983-05-25,Laki-Laki
+98,Gisella Anastasia,2028-06-05,Hukum Pidana,81266699998,Komplek Perdana 4,gisella.a@law.com,Solo,1998-12-10,Wanita
+99,Hamish Daud,2028-06-20,Hukum Niaga,85077700099,Jl. Danau Toba 10,hamish.d@law.com,Pekanbaru,1978-07-04,Laki-Laki
+100,Indra Bekti,2028-07-05,Hukum HKI,87188811100,Perumahan Elite A7,indra.bekti@law.com,Samarinda,1994-02-18,Laki-Laki

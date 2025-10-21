@@ -1,0 +1,1001 @@
+Kasus_ID,Perkara_Kasus,Deskripsi_Kasus,NIK,Pengacara_ID,Staf_ID,Tgl_Daftar,Tgl_Mulai,Tgl_Selesai,Hasil,Status_Kasus
+50001,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50001 untuk NIK 100862,100862,441,982,2025-02-14,2025-11-20,2025-11-28,Menang,Selesai
+50002,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50002 untuk NIK 100580,100580,184,750,2024-08-28,2025-06-10,,,Pending
+50003,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50003 untuk NIK 100261,100261,73,516,2025-10-28,2025-12-16,,,Pending
+50004,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50004 untuk NIK 100988,100988,112,959,2024-04-21,2025-05-28,,,Proses
+50005,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50005 untuk NIK 100282,100282,676,824,2025-10-31,2025-12-09,,,Pending
+50006,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50006 untuk NIK 100116,100116,496,775,2024-10-09,2024-10-25,2025-11-08,Menang,Selesai
+50007,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50007 untuk NIK 100993,100993,515,39,2025-06-30,2025-07-24,,,Pending
+50008,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50008 untuk NIK 100905,100905,36,75,2025-03-13,2025-11-11,2025-12-10,Damai,Selesai
+50009,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50009 untuk NIK 100713,100713,461,831,2024-03-04,2024-06-03,,,Proses
+50010,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50010 untuk NIK 100348,100348,83,988,2025-11-23,2025-12-17,2025-12-28,Menang,Selesai
+50011,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50011 untuk NIK 100899,100899,874,985,2024-02-04,2025-12-05,2025-12-24,Menang,Selesai
+50012,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50012 untuk NIK 100787,100787,992,524,2025-10-30,2025-11-01,,,Pending
+50013,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50013 untuk NIK 100293,100293,42,200,2024-02-11,2024-07-19,2025-09-11,Menang,Selesai
+50014,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50014 untuk NIK 100938,100938,829,481,2024-02-21,2024-12-06,,,Proses
+50015,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50015 untuk NIK 100613,100613,129,369,2024-08-24,2025-03-20,2025-12-28,Menang,Selesai
+50016,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50016 untuk NIK 100994,100994,549,994,2025-07-07,2025-12-22,2025-12-29,Kalah,Selesai
+50017,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50017 untuk NIK 100588,100588,117,935,2024-02-05,2024-04-20,,,Pending
+50018,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50018 untuk NIK 100929,100929,90,79,2024-06-01,2024-07-26,2024-12-28,Menang,Selesai
+50019,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50019 untuk NIK 100230,100230,513,761,2024-11-18,2025-12-12,,,Proses
+50020,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50020 untuk NIK 100370,100370,276,466,2024-11-10,2025-01-31,,,Pending
+50021,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50021 untuk NIK 100005,100005,375,162,2025-04-26,2025-05-03,2025-12-30,Kalah,Selesai
+50022,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50022 untuk NIK 100621,100621,951,747,2025-06-21,2025-07-10,2025-07-31,Menang,Selesai
+50023,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50023 untuk NIK 100588,100588,261,224,2024-08-08,2024-11-24,,,Proses
+50024,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50024 untuk NIK 100028,100028,502,310,2024-06-06,2025-08-17,2025-12-03,Damai,Selesai
+50025,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50025 untuk NIK 100700,100700,334,240,2025-10-24,2025-12-09,,,Proses
+50026,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50026 untuk NIK 100518,100518,246,372,2025-12-20,2025-12-30,,,Proses
+50027,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50027 untuk NIK 100152,100152,985,631,2024-11-28,2025-12-17,,,Pending
+50028,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50028 untuk NIK 100321,100321,47,84,2025-12-29,2025-12-29,,,Proses
+50029,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50029 untuk NIK 100220,100220,217,335,2025-08-17,2025-10-09,2025-10-27,Kalah,Selesai
+50030,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50030 untuk NIK 100521,100521,895,942,2024-12-13,2025-02-10,,,Proses
+50031,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50031 untuk NIK 100625,100625,35,594,2024-06-29,2024-10-08,2025-05-03,Menang,Selesai
+50032,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50032 untuk NIK 100534,100534,226,84,2025-07-24,2025-08-01,2025-10-01,Damai,Selesai
+50033,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50033 untuk NIK 100916,100916,813,674,2024-07-20,2024-10-06,,,Pending
+50034,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50034 untuk NIK 100365,100365,525,565,2024-01-17,2024-05-22,,,Pending
+50035,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50035 untuk NIK 100499,100499,367,393,2025-12-13,2025-12-15,,,Proses
+50036,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50036 untuk NIK 100230,100230,952,715,2024-12-27,2025-03-26,2025-10-30,Kalah,Selesai
+50037,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50037 untuk NIK 100635,100635,617,95,2025-01-31,2025-09-04,,,Pending
+50038,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50038 untuk NIK 100460,100460,887,399,2024-11-08,2025-04-03,,,Pending
+50039,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50039 untuk NIK 100111,100111,499,639,2024-12-05,2025-08-31,,,Proses
+50040,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50040 untuk NIK 100351,100351,149,157,2025-07-23,2025-12-12,2025-12-29,Kalah,Selesai
+50041,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50041 untuk NIK 100415,100415,641,114,2025-01-26,2025-06-04,,,Proses
+50042,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50042 untuk NIK 100275,100275,83,646,2025-09-09,2025-09-09,,,Proses
+50043,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50043 untuk NIK 100308,100308,458,715,2024-09-15,2025-09-30,,,Pending
+50044,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50044 untuk NIK 100111,100111,410,582,2025-02-17,2025-10-24,2025-12-10,Damai,Selesai
+50045,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50045 untuk NIK 100579,100579,793,303,2025-01-06,2025-08-24,2025-09-11,Menang,Selesai
+50046,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50046 untuk NIK 100333,100333,176,612,2025-12-21,2025-12-27,,,Pending
+50047,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50047 untuk NIK 100556,100556,732,466,2024-10-06,2025-02-28,2025-04-09,Kalah,Selesai
+50048,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50048 untuk NIK 100834,100834,114,539,2025-06-05,2025-11-16,,,Proses
+50049,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50049 untuk NIK 100043,100043,508,80,2024-01-19,2025-08-14,,,Proses
+50050,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50050 untuk NIK 100413,100413,661,35,2025-10-28,2025-12-04,2025-12-24,Menang,Selesai
+50051,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50051 untuk NIK 100018,100018,129,910,2024-04-24,2025-01-09,2025-05-17,Damai,Selesai
+50052,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50052 untuk NIK 100847,100847,361,981,2024-03-14,2025-05-07,,,Proses
+50053,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50053 untuk NIK 100200,100200,471,899,2025-04-02,2025-11-14,,,Proses
+50054,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50054 untuk NIK 100342,100342,403,82,2024-05-29,2024-11-08,2025-10-20,Kalah,Selesai
+50055,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50055 untuk NIK 100088,100088,512,647,2024-02-06,2024-08-03,,,Proses
+50056,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50056 untuk NIK 100009,100009,85,177,2024-09-21,2024-10-15,2025-09-11,Damai,Selesai
+50057,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50057 untuk NIK 100040,100040,620,514,2025-11-16,2025-11-16,,,Pending
+50058,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50058 untuk NIK 100120,100120,884,1,2025-08-06,2025-08-20,,,Proses
+50059,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50059 untuk NIK 100106,100106,173,888,2025-03-04,2025-07-07,,,Proses
+50060,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50060 untuk NIK 100191,100191,547,463,2025-06-14,2025-08-14,,,Proses
+50061,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50061 untuk NIK 100744,100744,426,225,2025-11-06,2025-12-16,2025-12-26,Damai,Selesai
+50062,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50062 untuk NIK 100680,100680,372,531,2025-03-27,2025-12-18,,,Proses
+50063,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50063 untuk NIK 100011,100011,569,181,2024-12-18,2025-05-18,,,Pending
+50064,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50064 untuk NIK 100647,100647,546,621,2024-05-21,2024-11-12,,,Proses
+50065,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50065 untuk NIK 100375,100375,669,352,2025-07-21,2025-12-30,,,Proses
+50066,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50066 untuk NIK 100672,100672,550,575,2025-05-13,2025-05-27,2025-09-13,Menang,Selesai
+50067,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50067 untuk NIK 100986,100986,685,732,2024-09-19,2025-07-22,,,Proses
+50068,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50068 untuk NIK 100076,100076,354,945,2025-08-20,2025-08-26,,,Proses
+50069,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50069 untuk NIK 100787,100787,81,840,2024-09-18,2025-04-22,,,Pending
+50070,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50070 untuk NIK 100740,100740,384,664,2025-06-21,2025-07-09,,,Proses
+50071,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50071 untuk NIK 100324,100324,810,888,2024-06-23,2024-12-29,,,Pending
+50072,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50072 untuk NIK 100339,100339,966,972,2025-06-09,2025-07-03,2025-09-21,Menang,Selesai
+50073,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50073 untuk NIK 100578,100578,324,895,2024-07-24,2025-05-13,2025-06-09,Damai,Selesai
+50074,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50074 untuk NIK 100585,100585,76,595,2024-06-07,2025-07-14,2025-07-26,Menang,Selesai
+50075,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50075 untuk NIK 100067,100067,322,303,2024-12-03,2025-11-17,,,Proses
+50076,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50076 untuk NIK 100966,100966,791,162,2024-11-24,2025-08-27,2025-12-20,Damai,Selesai
+50077,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50077 untuk NIK 100158,100158,192,257,2024-02-19,2025-01-15,,,Proses
+50078,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50078 untuk NIK 100779,100779,586,318,2024-05-15,2025-09-06,2025-10-15,Menang,Selesai
+50079,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50079 untuk NIK 100244,100244,218,179,2024-04-01,2025-08-07,,,Proses
+50080,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50080 untuk NIK 100859,100859,91,641,2024-01-13,2024-07-15,2025-10-25,Menang,Selesai
+50081,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50081 untuk NIK 100268,100268,850,461,2025-04-18,2025-10-14,,,Proses
+50082,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50082 untuk NIK 100232,100232,704,917,2025-02-06,2025-05-21,,,Pending
+50083,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50083 untuk NIK 100876,100876,722,810,2025-09-11,2025-10-15,2025-11-17,Kalah,Selesai
+50084,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50084 untuk NIK 100005,100005,949,70,2024-12-04,2025-09-04,2025-12-14,Menang,Selesai
+50085,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50085 untuk NIK 100431,100431,399,328,2024-05-23,2025-05-29,2025-10-30,Kalah,Selesai
+50086,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50086 untuk NIK 100789,100789,547,809,2024-08-31,2025-01-13,,,Proses
+50087,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50087 untuk NIK 100193,100193,4,610,2025-11-20,2025-12-30,,,Proses
+50088,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50088 untuk NIK 100032,100032,654,417,2025-12-13,2025-12-27,,,Proses
+50089,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50089 untuk NIK 100565,100565,833,696,2025-07-19,2025-08-06,2025-12-22,Menang,Selesai
+50090,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50090 untuk NIK 100188,100188,209,384,2025-04-01,2025-04-18,2025-05-14,Damai,Selesai
+50091,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50091 untuk NIK 100341,100341,167,632,2024-02-05,2025-07-24,,,Pending
+50092,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50092 untuk NIK 100448,100448,208,109,2024-03-27,2024-10-09,2025-05-31,Kalah,Selesai
+50093,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50093 untuk NIK 100749,100749,945,874,2024-11-27,2025-04-27,,,Proses
+50094,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50094 untuk NIK 100441,100441,656,439,2024-02-21,2024-08-13,,,Pending
+50095,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50095 untuk NIK 100605,100605,51,383,2025-03-30,2025-12-25,,,Pending
+50096,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50096 untuk NIK 100407,100407,933,912,2024-06-20,2025-05-06,,,Proses
+50097,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50097 untuk NIK 100376,100376,164,499,2025-02-25,2025-02-27,,,Pending
+50098,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50098 untuk NIK 100372,100372,444,706,2025-12-18,2025-12-21,2025-12-29,Menang,Selesai
+50099,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50099 untuk NIK 100279,100279,786,81,2024-06-07,2024-09-14,2025-01-18,Kalah,Selesai
+50100,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50100 untuk NIK 100957,100957,432,600,2025-01-25,2025-09-11,,,Proses
+50101,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50101 untuk NIK 100446,100446,537,914,2024-08-26,2025-01-18,2025-11-05,Menang,Selesai
+50102,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50102 untuk NIK 100601,100601,1,854,2025-07-01,2025-08-23,2025-08-30,Menang,Selesai
+50103,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50103 untuk NIK 100372,100372,738,639,2024-01-18,2024-10-17,2025-10-17,Menang,Selesai
+50104,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50104 untuk NIK 100123,100123,192,330,2025-04-30,2025-06-06,,,Proses
+50105,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50105 untuk NIK 100110,100110,392,595,2024-07-01,2024-10-28,,,Proses
+50106,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50106 untuk NIK 100482,100482,385,236,2025-01-14,2025-06-10,2025-08-25,Kalah,Selesai
+50107,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50107 untuk NIK 100935,100935,508,210,2024-10-26,2025-11-03,2025-11-28,Menang,Selesai
+50108,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50108 untuk NIK 100388,100388,246,556,2025-04-03,2025-11-27,2025-12-30,Menang,Selesai
+50109,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50109 untuk NIK 100942,100942,95,705,2025-09-07,2025-09-26,2025-12-29,Kalah,Selesai
+50110,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50110 untuk NIK 100672,100672,229,937,2024-02-13,2025-07-28,,,Proses
+50111,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50111 untuk NIK 100622,100622,210,811,2024-12-29,2025-10-04,2025-11-27,Kalah,Selesai
+50112,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50112 untuk NIK 100328,100328,672,409,2025-12-27,2025-12-29,,,Pending
+50113,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50113 untuk NIK 100972,100972,482,522,2024-11-10,2025-02-17,,,Proses
+50114,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50114 untuk NIK 100513,100513,738,635,2025-06-09,2025-06-22,2025-12-26,Menang,Selesai
+50115,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50115 untuk NIK 100439,100439,526,91,2024-12-02,2025-05-03,,,Proses
+50116,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50116 untuk NIK 100126,100126,899,925,2024-01-06,2025-07-09,2025-10-23,Kalah,Selesai
+50117,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50117 untuk NIK 100206,100206,743,702,2024-01-24,2025-10-22,2025-12-06,Kalah,Selesai
+50118,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50118 untuk NIK 100910,100910,431,618,2025-08-09,2025-12-02,,,Pending
+50119,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50119 untuk NIK 100366,100366,344,804,2024-03-05,2025-10-13,2025-10-28,Kalah,Selesai
+50120,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50120 untuk NIK 100111,100111,48,386,2025-07-02,2025-08-11,,,Proses
+50121,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50121 untuk NIK 100103,100103,704,563,2024-03-04,2025-11-28,,,Pending
+50122,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50122 untuk NIK 100142,100142,327,908,2024-04-03,2025-09-19,2025-10-23,Damai,Selesai
+50123,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50123 untuk NIK 100300,100300,373,751,2025-10-14,2025-10-25,2025-12-18,Menang,Selesai
+50124,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50124 untuk NIK 100163,100163,496,5,2025-07-14,2025-10-02,,,Proses
+50125,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50125 untuk NIK 100551,100551,976,525,2024-10-13,2025-04-17,2025-07-30,Menang,Selesai
+50126,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50126 untuk NIK 100785,100785,124,293,2024-11-25,2025-09-07,,,Proses
+50127,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50127 untuk NIK 100193,100193,738,854,2024-06-26,2024-11-22,2025-02-09,Kalah,Selesai
+50128,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50128 untuk NIK 100540,100540,694,295,2025-06-16,2025-08-22,,,Pending
+50129,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50129 untuk NIK 100419,100419,102,877,2025-09-24,2025-11-08,2025-12-16,Menang,Selesai
+50130,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50130 untuk NIK 100169,100169,197,798,2024-07-11,2025-08-27,,,Proses
+50131,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50131 untuk NIK 100310,100310,706,720,2025-03-19,2025-07-10,,,Proses
+50132,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50132 untuk NIK 100151,100151,961,299,2024-04-09,2025-04-01,2025-08-27,Menang,Selesai
+50133,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50133 untuk NIK 100316,100316,334,578,2024-11-24,2025-11-08,,,Proses
+50134,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50134 untuk NIK 100843,100843,926,414,2024-03-22,2024-04-17,2025-11-29,Kalah,Selesai
+50135,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50135 untuk NIK 100526,100526,59,226,2025-08-26,2025-10-05,2025-11-04,Menang,Selesai
+50136,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50136 untuk NIK 100907,100907,503,76,2025-01-18,2025-09-10,,,Pending
+50137,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50137 untuk NIK 100384,100384,588,239,2025-08-30,2025-11-28,,,Proses
+50138,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50138 untuk NIK 100391,100391,186,427,2025-05-18,2025-12-03,,,Pending
+50139,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50139 untuk NIK 100605,100605,908,406,2024-02-13,2025-06-27,2025-10-15,Menang,Selesai
+50140,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50140 untuk NIK 100433,100433,860,683,2024-09-13,2024-10-25,,,Pending
+50141,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50141 untuk NIK 100690,100690,547,116,2025-11-09,2025-11-21,2025-12-26,Kalah,Selesai
+50142,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50142 untuk NIK 100463,100463,852,489,2025-05-04,2025-08-28,,,Proses
+50143,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50143 untuk NIK 100236,100236,391,173,2024-08-16,2025-06-10,2025-08-06,Damai,Selesai
+50144,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50144 untuk NIK 100617,100617,965,574,2025-01-03,2025-11-27,,,Proses
+50145,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50145 untuk NIK 100891,100891,923,906,2025-06-24,2025-08-29,,,Pending
+50146,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50146 untuk NIK 100309,100309,233,914,2025-03-16,2025-09-17,,,Proses
+50147,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50147 untuk NIK 100791,100791,667,651,2025-09-10,2025-11-06,2025-12-28,Kalah,Selesai
+50148,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50148 untuk NIK 100229,100229,928,321,2025-02-14,2025-02-15,2025-06-08,Kalah,Selesai
+50149,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50149 untuk NIK 100589,100589,31,569,2024-01-12,2024-03-10,,,Proses
+50150,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50150 untuk NIK 100607,100607,245,495,2025-05-11,2025-07-08,,,Proses
+50151,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50151 untuk NIK 100486,100486,226,824,2025-06-04,2025-12-05,,,Pending
+50152,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50152 untuk NIK 100908,100908,701,365,2025-02-21,2025-03-20,,,Proses
+50153,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50153 untuk NIK 100296,100296,364,488,2025-08-07,2025-09-12,2025-10-04,Kalah,Selesai
+50154,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50154 untuk NIK 100605,100605,735,735,2024-06-09,2025-10-11,2025-11-07,Damai,Selesai
+50155,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50155 untuk NIK 100702,100702,637,904,2024-05-17,2024-11-14,,,Pending
+50156,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50156 untuk NIK 100423,100423,283,427,2024-05-07,2025-06-04,2025-12-29,Menang,Selesai
+50157,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50157 untuk NIK 100459,100459,983,757,2025-10-08,2025-11-30,,,Proses
+50158,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50158 untuk NIK 100088,100088,288,67,2025-10-23,2025-12-02,,,Proses
+50159,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50159 untuk NIK 100147,100147,234,444,2024-04-17,2025-07-10,2025-10-12,Menang,Selesai
+50160,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50160 untuk NIK 100049,100049,480,978,2025-02-07,2025-04-08,2025-09-05,Menang,Selesai
+50161,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50161 untuk NIK 100187,100187,906,358,2025-11-06,2025-11-15,,,Proses
+50162,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50162 untuk NIK 100102,100102,452,858,2025-09-14,2025-11-13,,,Proses
+50163,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50163 untuk NIK 100813,100813,467,101,2024-02-04,2024-12-01,2025-03-25,Menang,Selesai
+50164,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50164 untuk NIK 100863,100863,642,763,2025-01-30,2025-03-20,,,Pending
+50165,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50165 untuk NIK 100839,100839,758,536,2024-08-19,2024-11-27,2025-09-07,Kalah,Selesai
+50166,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50166 untuk NIK 100042,100042,215,865,2025-07-05,2025-09-19,,,Pending
+50167,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50167 untuk NIK 100681,100681,987,387,2024-09-11,2025-12-05,,,Proses
+50168,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50168 untuk NIK 100992,100992,993,387,2024-12-11,2025-05-04,,,Pending
+50169,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50169 untuk NIK 100678,100678,874,948,2025-04-20,2025-12-22,,,Pending
+50170,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50170 untuk NIK 100764,100764,483,163,2024-10-12,2025-01-16,,,Proses
+50171,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50171 untuk NIK 100443,100443,196,53,2024-09-08,2025-06-15,,,Pending
+50172,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50172 untuk NIK 100915,100915,872,872,2025-08-22,2025-12-12,,,Proses
+50173,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50173 untuk NIK 100598,100598,753,126,2025-08-12,2025-12-30,,,Proses
+50174,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50174 untuk NIK 100578,100578,962,483,2025-07-18,2025-09-26,2025-12-06,Kalah,Selesai
+50175,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50175 untuk NIK 100536,100536,333,282,2025-08-18,2025-09-16,,,Proses
+50176,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50176 untuk NIK 100025,100025,192,233,2025-11-04,2025-12-19,2025-12-28,Kalah,Selesai
+50177,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50177 untuk NIK 100812,100812,200,800,2024-10-02,2025-07-19,,,Pending
+50178,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50178 untuk NIK 100694,100694,19,460,2025-05-31,2025-08-26,2025-10-06,Kalah,Selesai
+50179,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50179 untuk NIK 100643,100643,345,820,2024-04-16,2025-03-30,,,Proses
+50180,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50180 untuk NIK 101000,101000,702,124,2024-06-04,2024-06-13,,,Proses
+50181,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50181 untuk NIK 100773,100773,266,887,2025-05-20,2025-11-01,,,Pending
+50182,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50182 untuk NIK 100336,100336,558,508,2024-07-28,2025-05-26,,,Pending
+50183,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50183 untuk NIK 100280,100280,591,865,2025-11-29,2025-12-06,2025-12-20,Menang,Selesai
+50184,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50184 untuk NIK 100537,100537,297,525,2025-11-12,2025-11-14,,,Pending
+50185,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50185 untuk NIK 100764,100764,435,863,2024-05-17,2024-06-02,2025-05-29,Kalah,Selesai
+50186,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50186 untuk NIK 100214,100214,112,96,2025-03-13,2025-11-06,,,Pending
+50187,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50187 untuk NIK 100498,100498,161,125,2024-09-28,2024-10-17,,,Proses
+50188,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50188 untuk NIK 100480,100480,231,951,2025-10-13,2025-12-20,2025-12-27,Damai,Selesai
+50189,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50189 untuk NIK 100206,100206,127,198,2024-12-16,2025-06-07,,,Proses
+50190,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50190 untuk NIK 100867,100867,63,507,2024-02-10,2024-02-12,,,Proses
+50191,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50191 untuk NIK 100969,100969,967,973,2025-12-26,2025-12-29,,,Proses
+50192,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50192 untuk NIK 100153,100153,689,500,2024-11-28,2025-03-23,,,Proses
+50193,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50193 untuk NIK 100500,100500,964,317,2025-06-27,2025-10-11,2025-12-03,Menang,Selesai
+50194,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50194 untuk NIK 100090,100090,899,128,2024-11-26,2025-04-08,,,Pending
+50195,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50195 untuk NIK 100660,100660,970,1000,2025-10-07,2025-10-22,2025-12-28,Kalah,Selesai
+50196,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50196 untuk NIK 100184,100184,156,127,2025-12-28,2025-12-29,,,Proses
+50197,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50197 untuk NIK 100566,100566,38,628,2025-05-19,2025-10-25,,,Proses
+50198,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50198 untuk NIK 100547,100547,995,246,2025-05-29,2025-11-29,2025-12-29,Menang,Selesai
+50199,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50199 untuk NIK 100639,100639,573,500,2024-02-13,2025-11-28,,,Proses
+50200,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50200 untuk NIK 100842,100842,383,216,2025-08-13,2025-09-17,2025-12-27,Kalah,Selesai
+50201,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50201 untuk NIK 100937,100937,462,830,2025-05-17,2025-05-17,,,Pending
+50202,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50202 untuk NIK 100125,100125,81,875,2025-02-02,2025-10-13,,,Proses
+50203,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50203 untuk NIK 100316,100316,847,254,2025-05-08,2025-08-26,,,Proses
+50204,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50204 untuk NIK 100632,100632,707,66,2024-08-19,2025-10-22,2025-11-25,Menang,Selesai
+50205,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50205 untuk NIK 100606,100606,263,362,2025-03-10,2025-10-10,,,Proses
+50206,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50206 untuk NIK 100805,100805,456,59,2024-06-02,2024-12-28,2025-12-16,Kalah,Selesai
+50207,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50207 untuk NIK 100769,100769,677,655,2024-08-14,2025-08-27,,,Pending
+50208,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50208 untuk NIK 100335,100335,921,795,2025-12-07,2025-12-17,,,Proses
+50209,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50209 untuk NIK 100937,100937,205,549,2024-09-03,2024-10-17,,,Proses
+50210,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50210 untuk NIK 100090,100090,757,342,2025-06-27,2025-12-14,,,Pending
+50211,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50211 untuk NIK 100684,100684,682,874,2025-05-11,2025-11-05,2025-12-28,Menang,Selesai
+50212,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50212 untuk NIK 100667,100667,857,22,2024-01-20,2025-09-10,,,Pending
+50213,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50213 untuk NIK 100884,100884,70,783,2025-02-10,2025-08-05,,,Proses
+50214,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50214 untuk NIK 100333,100333,404,248,2025-01-29,2025-04-11,,,Pending
+50215,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50215 untuk NIK 100282,100282,922,218,2025-07-05,2025-08-20,,,Pending
+50216,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50216 untuk NIK 100895,100895,163,962,2024-02-29,2025-05-13,2025-07-06,Menang,Selesai
+50217,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50217 untuk NIK 100593,100593,16,595,2024-03-12,2024-06-13,,,Proses
+50218,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50218 untuk NIK 100640,100640,855,155,2024-10-03,2025-10-18,2025-12-04,Menang,Selesai
+50219,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50219 untuk NIK 100734,100734,77,233,2024-03-21,2025-07-15,2025-11-21,Menang,Selesai
+50220,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50220 untuk NIK 100685,100685,794,561,2024-10-15,2025-09-17,2025-09-26,Damai,Selesai
+50221,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50221 untuk NIK 100850,100850,567,430,2024-03-18,2024-11-17,,,Proses
+50222,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50222 untuk NIK 100676,100676,13,900,2024-09-26,2025-02-02,,,Proses
+50223,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50223 untuk NIK 100380,100380,174,651,2025-01-23,2025-04-05,,,Proses
+50224,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50224 untuk NIK 100086,100086,257,256,2025-12-17,2025-12-21,2025-12-30,Menang,Selesai
+50225,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50225 untuk NIK 100563,100563,286,508,2025-03-05,2025-04-17,2025-11-13,Menang,Selesai
+50226,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50226 untuk NIK 100631,100631,748,945,2024-03-10,2025-05-31,2025-12-19,Kalah,Selesai
+50227,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50227 untuk NIK 100777,100777,68,204,2025-12-29,2025-12-30,,,Proses
+50228,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50228 untuk NIK 100554,100554,710,647,2024-05-29,2024-07-27,2025-10-25,Menang,Selesai
+50229,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50229 untuk NIK 100649,100649,557,512,2025-03-23,2025-06-05,2025-08-13,Kalah,Selesai
+50230,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50230 untuk NIK 100272,100272,291,924,2025-12-29,2025-12-29,,,Pending
+50231,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50231 untuk NIK 100575,100575,851,220,2025-08-23,2025-09-25,2025-10-20,Kalah,Selesai
+50232,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50232 untuk NIK 100821,100821,279,586,2024-01-29,2024-03-24,,,Proses
+50233,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50233 untuk NIK 100784,100784,609,922,2025-12-19,2025-12-19,2025-12-28,Menang,Selesai
+50234,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50234 untuk NIK 100053,100053,32,684,2025-04-04,2025-08-01,,,Proses
+50235,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50235 untuk NIK 100825,100825,661,634,2025-04-06,2025-04-15,2025-05-07,Kalah,Selesai
+50236,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50236 untuk NIK 100750,100750,232,120,2025-05-17,2025-12-05,2025-12-24,Damai,Selesai
+50237,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50237 untuk NIK 100248,100248,254,800,2024-08-28,2024-12-06,2025-12-12,Kalah,Selesai
+50238,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50238 untuk NIK 100465,100465,21,115,2024-11-09,2024-12-28,,,Proses
+50239,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50239 untuk NIK 100080,100080,285,757,2025-03-02,2025-04-16,,,Proses
+50240,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50240 untuk NIK 100003,100003,702,593,2025-05-28,2025-09-05,,,Proses
+50241,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50241 untuk NIK 100164,100164,744,465,2025-09-19,2025-12-20,2025-12-29,Damai,Selesai
+50242,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50242 untuk NIK 100313,100313,562,421,2024-01-02,2024-10-12,,,Proses
+50243,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50243 untuk NIK 100822,100822,295,954,2025-11-06,2025-11-11,2025-12-12,Damai,Selesai
+50244,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50244 untuk NIK 100024,100024,131,212,2024-11-13,2025-02-08,2025-08-08,Kalah,Selesai
+50245,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50245 untuk NIK 100121,100121,783,191,2024-02-28,2024-03-01,,,Proses
+50246,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50246 untuk NIK 100829,100829,950,929,2025-02-22,2025-10-30,,,Pending
+50247,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50247 untuk NIK 100828,100828,238,566,2025-10-04,2025-12-29,,,Proses
+50248,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50248 untuk NIK 100513,100513,435,754,2024-08-12,2025-10-30,,,Pending
+50249,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50249 untuk NIK 100829,100829,875,465,2024-04-14,2025-12-28,,,Pending
+50250,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50250 untuk NIK 100713,100713,703,947,2024-12-03,2025-12-06,2025-12-18,Menang,Selesai
+50251,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50251 untuk NIK 100890,100890,161,846,2024-07-08,2025-10-17,2025-11-22,Menang,Selesai
+50252,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50252 untuk NIK 100506,100506,412,183,2025-06-25,2025-08-23,,,Proses
+50253,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50253 untuk NIK 100391,100391,687,552,2025-01-26,2025-04-05,2025-12-09,Menang,Selesai
+50254,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50254 untuk NIK 100047,100047,395,54,2025-09-05,2025-12-30,,,Proses
+50255,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50255 untuk NIK 100802,100802,80,132,2025-09-05,2025-11-26,2025-12-17,Menang,Selesai
+50256,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50256 untuk NIK 100953,100953,557,570,2025-04-11,2025-06-17,,,Proses
+50257,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50257 untuk NIK 100993,100993,603,951,2025-01-02,2025-12-01,2025-12-09,Menang,Selesai
+50258,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50258 untuk NIK 100330,100330,714,284,2025-12-18,2025-12-24,,,Pending
+50259,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50259 untuk NIK 100356,100356,772,91,2025-04-09,2025-12-11,2025-12-26,Kalah,Selesai
+50260,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50260 untuk NIK 100983,100983,300,163,2024-05-27,2024-10-20,,,Proses
+50261,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50261 untuk NIK 100240,100240,492,760,2024-01-13,2025-12-30,,,Proses
+50262,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50262 untuk NIK 100140,100140,653,727,2025-05-09,2025-06-19,2025-09-20,Damai,Selesai
+50263,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50263 untuk NIK 100597,100597,786,504,2024-01-09,2024-10-22,,,Proses
+50264,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50264 untuk NIK 100831,100831,865,597,2025-01-18,2025-07-18,2025-09-15,Kalah,Selesai
+50265,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50265 untuk NIK 100730,100730,623,583,2025-04-26,2025-10-06,,,Proses
+50266,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50266 untuk NIK 100969,100969,994,420,2024-10-12,2024-10-22,,,Proses
+50267,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50267 untuk NIK 100744,100744,764,487,2025-06-24,2025-11-19,,,Proses
+50268,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50268 untuk NIK 100767,100767,879,997,2024-07-19,2024-10-02,,,Proses
+50269,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50269 untuk NIK 100397,100397,184,349,2024-10-12,2024-11-28,2025-06-05,Kalah,Selesai
+50270,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50270 untuk NIK 100130,100130,221,163,2025-04-25,2025-10-01,,,Pending
+50271,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50271 untuk NIK 100343,100343,755,313,2024-03-01,2024-04-13,2025-03-18,Kalah,Selesai
+50272,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50272 untuk NIK 100489,100489,687,757,2025-10-12,2025-11-15,,,Proses
+50273,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50273 untuk NIK 100736,100736,981,78,2025-01-18,2025-09-05,2025-12-15,Menang,Selesai
+50274,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50274 untuk NIK 100378,100378,349,414,2024-02-18,2025-10-18,,,Pending
+50275,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50275 untuk NIK 100983,100983,396,75,2024-04-27,2025-04-11,2025-08-26,Menang,Selesai
+50276,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50276 untuk NIK 100076,100076,944,695,2024-09-28,2025-04-04,,,Proses
+50277,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50277 untuk NIK 100562,100562,87,274,2025-08-20,2025-09-07,2025-10-14,Menang,Selesai
+50278,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50278 untuk NIK 100992,100992,482,20,2024-09-05,2025-01-27,2025-07-23,Menang,Selesai
+50279,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50279 untuk NIK 100300,100300,99,3,2025-11-08,2025-11-19,,,Pending
+50280,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50280 untuk NIK 100044,100044,994,157,2025-05-22,2025-11-05,,,Proses
+50281,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50281 untuk NIK 100305,100305,581,209,2024-01-10,2025-11-12,,,Pending
+50282,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50282 untuk NIK 100347,100347,243,195,2025-05-28,2025-12-22,2025-12-29,Menang,Selesai
+50283,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50283 untuk NIK 100313,100313,132,197,2025-06-28,2025-07-10,,,Proses
+50284,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50284 untuk NIK 100752,100752,307,351,2024-09-10,2025-03-20,2025-09-28,Damai,Selesai
+50285,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50285 untuk NIK 100283,100283,146,69,2025-04-10,2025-12-08,2025-12-24,Damai,Selesai
+50286,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50286 untuk NIK 100077,100077,919,544,2024-04-07,2025-03-07,,,Proses
+50287,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50287 untuk NIK 100513,100513,212,777,2025-06-27,2025-09-19,,,Proses
+50288,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50288 untuk NIK 100715,100715,995,677,2024-09-26,2025-01-24,2025-04-30,Kalah,Selesai
+50289,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50289 untuk NIK 100978,100978,562,420,2025-07-30,2025-08-22,2025-12-18,Menang,Selesai
+50290,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50290 untuk NIK 100066,100066,929,967,2024-03-18,2024-07-22,,,Pending
+50291,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50291 untuk NIK 100161,100161,280,983,2024-11-13,2024-11-14,2025-06-03,Damai,Selesai
+50292,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50292 untuk NIK 100324,100324,130,82,2024-01-02,2025-06-29,,,Proses
+50293,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50293 untuk NIK 100766,100766,433,850,2024-07-21,2025-09-06,2025-11-06,Menang,Selesai
+50294,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50294 untuk NIK 100968,100968,917,341,2025-01-20,2025-04-30,2025-05-18,Menang,Selesai
+50295,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50295 untuk NIK 100825,100825,297,187,2024-06-30,2025-03-22,,,Proses
+50296,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50296 untuk NIK 100060,100060,880,642,2025-04-29,2025-05-13,2025-10-30,Kalah,Selesai
+50297,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50297 untuk NIK 100533,100533,173,972,2024-03-21,2025-10-17,,,Proses
+50298,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50298 untuk NIK 100937,100937,988,418,2025-07-30,2025-10-13,,,Pending
+50299,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50299 untuk NIK 100431,100431,3,364,2025-11-25,2025-12-28,,,Pending
+50300,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50300 untuk NIK 100843,100843,910,807,2024-08-18,2025-03-30,,,Proses
+50301,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50301 untuk NIK 100548,100548,167,979,2025-10-15,2025-11-08,,,Proses
+50302,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50302 untuk NIK 100608,100608,867,710,2024-01-13,2025-11-12,,,Proses
+50303,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50303 untuk NIK 100503,100503,143,472,2024-02-15,2024-06-25,,,Pending
+50304,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50304 untuk NIK 100451,100451,682,308,2025-11-07,2025-11-20,2025-12-24,Menang,Selesai
+50305,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50305 untuk NIK 100289,100289,685,931,2024-10-09,2025-10-16,2025-11-02,Damai,Selesai
+50306,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50306 untuk NIK 100070,100070,24,792,2025-02-24,2025-04-17,,,Proses
+50307,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50307 untuk NIK 100265,100265,40,228,2024-05-14,2025-11-27,,,Proses
+50308,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50308 untuk NIK 100060,100060,43,145,2025-09-26,2025-10-30,2025-12-28,Menang,Selesai
+50309,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50309 untuk NIK 100506,100506,40,649,2025-12-11,2025-12-16,,,Proses
+50310,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50310 untuk NIK 100519,100519,527,812,2025-07-29,2025-09-10,2025-10-12,Kalah,Selesai
+50311,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50311 untuk NIK 100248,100248,116,939,2024-06-28,2025-08-31,2025-12-24,Damai,Selesai
+50312,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50312 untuk NIK 100021,100021,77,359,2024-04-04,2025-08-17,,,Pending
+50313,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50313 untuk NIK 100154,100154,289,310,2025-04-04,2025-12-03,,,Proses
+50314,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50314 untuk NIK 100314,100314,376,329,2024-04-01,2024-05-12,,,Pending
+50315,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50315 untuk NIK 100564,100564,501,903,2025-04-13,2025-05-27,,,Proses
+50316,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50316 untuk NIK 100277,100277,602,79,2025-12-24,2025-12-28,,,Proses
+50317,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50317 untuk NIK 100284,100284,58,727,2025-09-11,2025-11-29,2025-12-28,Menang,Selesai
+50318,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50318 untuk NIK 100474,100474,265,322,2024-11-05,2025-02-13,,,Pending
+50319,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50319 untuk NIK 100652,100652,254,731,2024-09-30,2024-12-11,,,Proses
+50320,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50320 untuk NIK 100075,100075,998,170,2025-02-18,2025-11-14,,,Proses
+50321,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50321 untuk NIK 100357,100357,816,196,2025-11-06,2025-12-18,,,Pending
+50322,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50322 untuk NIK 100095,100095,903,329,2025-12-27,2025-12-29,,,Pending
+50323,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50323 untuk NIK 100550,100550,727,220,2025-09-04,2025-09-22,,,Pending
+50324,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50324 untuk NIK 100702,100702,643,753,2025-06-08,2025-12-28,,,Proses
+50325,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50325 untuk NIK 100688,100688,139,273,2025-05-12,2025-07-02,,,Proses
+50326,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50326 untuk NIK 100029,100029,101,160,2025-08-19,2025-11-07,,,Pending
+50327,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50327 untuk NIK 100694,100694,358,439,2025-03-18,2025-11-10,,,Pending
+50328,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50328 untuk NIK 100017,100017,825,895,2024-12-14,2025-03-08,2025-10-03,Damai,Selesai
+50329,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50329 untuk NIK 100300,100300,878,981,2025-02-23,2025-03-15,,,Pending
+50330,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50330 untuk NIK 100629,100629,545,26,2025-03-25,2025-08-18,2025-11-09,Menang,Selesai
+50331,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50331 untuk NIK 100280,100280,10,458,2025-02-09,2025-10-29,2025-11-23,Menang,Selesai
+50332,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50332 untuk NIK 100877,100877,735,287,2024-02-19,2025-04-05,2025-12-19,Menang,Selesai
+50333,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50333 untuk NIK 100675,100675,788,6,2024-10-19,2025-02-02,,,Proses
+50334,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50334 untuk NIK 100267,100267,830,115,2024-04-02,2025-09-03,,,Pending
+50335,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50335 untuk NIK 100712,100712,414,877,2024-08-10,2025-08-09,,,Pending
+50336,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50336 untuk NIK 100277,100277,497,676,2025-05-31,2025-06-30,2025-08-21,Kalah,Selesai
+50337,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50337 untuk NIK 100494,100494,513,66,2024-09-09,2025-07-03,,,Proses
+50338,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50338 untuk NIK 100807,100807,583,682,2025-04-19,2025-06-02,,,Proses
+50339,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50339 untuk NIK 100371,100371,480,73,2024-03-18,2025-11-03,2025-12-08,Menang,Selesai
+50340,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50340 untuk NIK 100188,100188,695,887,2025-04-07,2025-09-23,2025-11-04,Kalah,Selesai
+50341,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50341 untuk NIK 100579,100579,306,902,2025-09-20,2025-11-14,2025-11-24,Menang,Selesai
+50342,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50342 untuk NIK 100079,100079,674,513,2024-12-26,2025-03-22,,,Proses
+50343,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50343 untuk NIK 100954,100954,738,458,2025-09-19,2025-12-01,,,Pending
+50344,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50344 untuk NIK 100760,100760,100,207,2024-05-01,2024-07-02,,,Pending
+50345,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50345 untuk NIK 100368,100368,770,9,2024-09-03,2024-09-05,2025-01-30,Kalah,Selesai
+50346,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50346 untuk NIK 100478,100478,638,136,2025-06-25,2025-10-03,2025-11-02,Menang,Selesai
+50347,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50347 untuk NIK 100173,100173,390,675,2024-08-03,2024-08-29,2024-11-15,Menang,Selesai
+50348,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50348 untuk NIK 100969,100969,211,167,2025-01-31,2025-02-07,2025-10-24,Kalah,Selesai
+50349,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50349 untuk NIK 100280,100280,898,794,2025-09-12,2025-10-10,,,Proses
+50350,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50350 untuk NIK 100283,100283,858,912,2025-01-07,2025-11-20,,,Proses
+50351,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50351 untuk NIK 100544,100544,665,46,2025-05-19,2025-07-17,2025-10-17,Kalah,Selesai
+50352,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50352 untuk NIK 100466,100466,495,498,2024-11-13,2025-07-09,,,Proses
+50353,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50353 untuk NIK 100382,100382,767,278,2024-08-15,2025-07-13,,,Pending
+50354,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50354 untuk NIK 100163,100163,298,795,2025-12-08,2025-12-21,,,Proses
+50355,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50355 untuk NIK 100898,100898,847,924,2024-10-07,2025-06-09,,,Proses
+50356,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50356 untuk NIK 100278,100278,164,347,2025-07-29,2025-12-20,,,Pending
+50357,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50357 untuk NIK 100869,100869,238,875,2024-03-29,2024-09-05,2025-02-16,Kalah,Selesai
+50358,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50358 untuk NIK 100970,100970,886,416,2025-04-11,2025-08-18,,,Pending
+50359,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50359 untuk NIK 100596,100596,810,56,2024-09-12,2025-09-05,,,Pending
+50360,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50360 untuk NIK 100826,100826,14,495,2024-06-22,2025-03-03,,,Proses
+50361,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50361 untuk NIK 100446,100446,346,544,2025-09-05,2025-10-16,2025-11-27,Kalah,Selesai
+50362,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50362 untuk NIK 100178,100178,183,659,2025-02-02,2025-02-23,,,Proses
+50363,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50363 untuk NIK 100248,100248,776,807,2024-07-04,2024-08-13,2024-11-26,Menang,Selesai
+50364,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50364 untuk NIK 100762,100762,541,785,2025-08-01,2025-12-20,,,Pending
+50365,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50365 untuk NIK 100920,100920,70,926,2024-01-04,2024-05-09,,,Pending
+50366,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50366 untuk NIK 100119,100119,197,558,2024-12-19,2024-12-27,,,Proses
+50367,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50367 untuk NIK 100510,100510,888,610,2024-11-21,2025-06-27,,,Pending
+50368,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50368 untuk NIK 100536,100536,37,327,2025-09-08,2025-12-27,,,Proses
+50369,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50369 untuk NIK 100337,100337,26,722,2024-09-19,2025-10-25,2025-11-12,Damai,Selesai
+50370,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50370 untuk NIK 100176,100176,82,172,2024-05-09,2024-09-15,,,Pending
+50371,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50371 untuk NIK 100396,100396,815,803,2024-12-18,2025-02-23,2025-11-09,Menang,Selesai
+50372,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50372 untuk NIK 100489,100489,113,492,2025-12-21,2025-12-26,,,Pending
+50373,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50373 untuk NIK 100131,100131,202,536,2024-06-28,2024-11-05,,,Pending
+50374,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50374 untuk NIK 100447,100447,649,492,2024-02-04,2025-02-10,,,Pending
+50375,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50375 untuk NIK 100738,100738,671,286,2025-01-26,2025-06-20,2025-09-06,Menang,Selesai
+50376,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50376 untuk NIK 100541,100541,788,654,2024-08-22,2025-11-21,2025-12-18,Damai,Selesai
+50377,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50377 untuk NIK 100980,100980,855,297,2025-07-28,2025-08-08,,,Proses
+50378,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50378 untuk NIK 100184,100184,753,969,2025-10-31,2025-11-09,,,Pending
+50379,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50379 untuk NIK 100592,100592,832,214,2025-09-10,2025-12-08,2025-12-19,Damai,Selesai
+50380,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50380 untuk NIK 100533,100533,203,649,2024-01-28,2024-09-26,,,Proses
+50381,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50381 untuk NIK 100846,100846,784,894,2025-02-06,2025-03-21,2025-09-04,Menang,Selesai
+50382,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50382 untuk NIK 100034,100034,409,409,2025-01-18,2025-05-08,,,Proses
+50383,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50383 untuk NIK 100358,100358,16,575,2025-08-07,2025-12-21,,,Proses
+50384,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50384 untuk NIK 100754,100754,378,809,2024-07-31,2025-08-14,,,Proses
+50385,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50385 untuk NIK 100878,100878,439,870,2025-07-16,2025-08-02,2025-12-27,Kalah,Selesai
+50386,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50386 untuk NIK 100584,100584,448,648,2025-12-29,2025-12-30,,,Proses
+50387,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50387 untuk NIK 100799,100799,531,39,2024-01-03,2024-07-13,,,Pending
+50388,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50388 untuk NIK 100437,100437,144,734,2025-07-05,2025-11-11,,,Pending
+50389,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50389 untuk NIK 100467,100467,906,238,2025-09-02,2025-12-24,,,Pending
+50390,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50390 untuk NIK 100409,100409,500,434,2025-12-17,2025-12-20,2025-12-28,Damai,Selesai
+50391,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50391 untuk NIK 100714,100714,205,688,2025-10-19,2025-11-04,2025-11-13,Menang,Selesai
+50392,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50392 untuk NIK 100916,100916,322,935,2025-12-23,2025-12-24,,,Proses
+50393,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50393 untuk NIK 100635,100635,304,60,2024-03-08,2025-05-11,2025-10-22,Damai,Selesai
+50394,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50394 untuk NIK 100345,100345,309,459,2025-01-11,2025-10-16,,,Proses
+50395,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50395 untuk NIK 100310,100310,656,310,2025-07-07,2025-07-15,,,Pending
+50396,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50396 untuk NIK 100795,100795,499,78,2025-05-20,2025-12-15,2025-12-26,Menang,Selesai
+50397,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50397 untuk NIK 100640,100640,827,1,2025-01-22,2025-08-29,,,Proses
+50398,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50398 untuk NIK 100103,100103,168,904,2024-07-31,2025-04-04,,,Pending
+50399,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50399 untuk NIK 100100,100100,840,433,2024-11-29,2025-12-16,2025-12-29,Damai,Selesai
+50400,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50400 untuk NIK 100387,100387,424,679,2025-01-21,2025-06-23,,,Proses
+50401,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50401 untuk NIK 100317,100317,156,729,2025-06-20,2025-07-05,,,Proses
+50402,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50402 untuk NIK 100064,100064,329,35,2024-03-08,2025-03-26,,,Proses
+50403,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50403 untuk NIK 100381,100381,54,909,2024-03-11,2025-01-13,2025-12-15,Menang,Selesai
+50404,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50404 untuk NIK 100675,100675,972,668,2024-07-22,2025-06-25,,,Proses
+50405,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50405 untuk NIK 100603,100603,239,760,2024-05-14,2025-06-03,,,Proses
+50406,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50406 untuk NIK 100601,100601,4,468,2025-06-01,2025-12-16,,,Pending
+50407,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50407 untuk NIK 100380,100380,604,112,2024-11-16,2025-02-12,,,Pending
+50408,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50408 untuk NIK 100559,100559,204,702,2025-10-12,2025-11-16,2025-12-01,Kalah,Selesai
+50409,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50409 untuk NIK 100261,100261,363,223,2025-06-04,2025-07-20,2025-11-07,Damai,Selesai
+50410,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50410 untuk NIK 100956,100956,291,19,2025-12-19,2025-12-29,,,Proses
+50411,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50411 untuk NIK 100336,100336,468,523,2024-05-10,2024-11-05,,,Proses
+50412,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50412 untuk NIK 100212,100212,10,124,2024-03-01,2024-04-16,2025-04-14,Kalah,Selesai
+50413,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50413 untuk NIK 100681,100681,894,339,2025-09-18,2025-11-25,2025-12-07,Kalah,Selesai
+50414,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50414 untuk NIK 100026,100026,665,916,2024-02-19,2025-08-05,,,Proses
+50415,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50415 untuk NIK 100018,100018,380,850,2025-03-17,2025-06-23,,,Pending
+50416,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50416 untuk NIK 100278,100278,992,344,2024-12-17,2025-04-29,,,Proses
+50417,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50417 untuk NIK 100598,100598,125,312,2024-04-09,2025-03-10,2025-08-02,Menang,Selesai
+50418,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50418 untuk NIK 100007,100007,93,447,2025-07-30,2025-09-10,,,Pending
+50419,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50419 untuk NIK 100063,100063,936,613,2025-07-14,2025-09-01,,,Pending
+50420,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50420 untuk NIK 100673,100673,492,289,2024-02-12,2025-07-10,2025-12-02,Damai,Selesai
+50421,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50421 untuk NIK 100123,100123,661,683,2025-08-28,2025-11-01,2025-11-18,Kalah,Selesai
+50422,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50422 untuk NIK 100467,100467,732,863,2024-08-29,2025-02-10,,,Proses
+50423,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50423 untuk NIK 100588,100588,113,110,2025-07-11,2025-12-26,,,Pending
+50424,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50424 untuk NIK 100475,100475,444,629,2024-01-02,2025-11-02,,,Pending
+50425,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50425 untuk NIK 100373,100373,515,430,2025-12-21,2025-12-27,,,Proses
+50426,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50426 untuk NIK 100502,100502,153,223,2025-03-07,2025-03-07,,,Pending
+50427,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50427 untuk NIK 100691,100691,990,599,2024-12-03,2025-04-27,,,Proses
+50428,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50428 untuk NIK 100981,100981,585,316,2024-11-26,2025-10-07,,,Pending
+50429,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50429 untuk NIK 100639,100639,477,994,2024-03-27,2025-04-17,,,Proses
+50430,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50430 untuk NIK 100578,100578,594,882,2025-12-29,2025-12-29,,,Pending
+50431,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50431 untuk NIK 100897,100897,207,767,2025-09-21,2025-11-10,2025-11-22,Kalah,Selesai
+50432,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50432 untuk NIK 100267,100267,184,956,2024-01-10,2025-09-09,,,Pending
+50433,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50433 untuk NIK 100864,100864,245,469,2025-05-29,2025-11-18,2025-12-14,Damai,Selesai
+50434,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50434 untuk NIK 100641,100641,229,962,2025-05-01,2025-07-04,,,Proses
+50435,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50435 untuk NIK 100194,100194,825,639,2025-08-17,2025-11-19,2025-12-13,Damai,Selesai
+50436,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50436 untuk NIK 100414,100414,971,272,2025-08-25,2025-11-18,,,Pending
+50437,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50437 untuk NIK 100595,100595,671,585,2025-05-07,2025-09-05,,,Proses
+50438,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50438 untuk NIK 100067,100067,713,69,2024-02-03,2024-12-16,2025-08-14,Menang,Selesai
+50439,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50439 untuk NIK 100776,100776,999,323,2024-09-25,2025-04-08,,,Proses
+50440,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50440 untuk NIK 100159,100159,21,533,2024-03-29,2025-05-03,,,Proses
+50441,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50441 untuk NIK 100465,100465,244,398,2025-01-25,2025-04-26,,,Proses
+50442,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50442 untuk NIK 100312,100312,503,35,2024-12-09,2025-12-16,,,Proses
+50443,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50443 untuk NIK 100210,100210,815,583,2024-03-21,2024-09-12,,,Proses
+50444,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50444 untuk NIK 100763,100763,464,312,2025-03-14,2025-11-25,2025-12-05,Damai,Selesai
+50445,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50445 untuk NIK 100664,100664,48,300,2024-05-13,2024-07-21,2025-12-04,Menang,Selesai
+50446,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50446 untuk NIK 100642,100642,152,114,2025-10-03,2025-10-17,2025-12-09,Menang,Selesai
+50447,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50447 untuk NIK 100690,100690,403,753,2024-05-01,2024-10-07,2025-02-15,Menang,Selesai
+50448,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50448 untuk NIK 100528,100528,671,190,2024-09-21,2025-12-23,,,Proses
+50449,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50449 untuk NIK 100516,100516,495,298,2024-03-06,2025-10-15,,,Pending
+50450,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50450 untuk NIK 100426,100426,322,271,2025-09-02,2025-11-24,,,Pending
+50451,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50451 untuk NIK 100969,100969,653,83,2024-05-16,2025-01-02,2025-02-05,Damai,Selesai
+50452,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50452 untuk NIK 100691,100691,959,415,2024-09-16,2024-11-04,,,Pending
+50453,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50453 untuk NIK 100093,100093,747,768,2024-11-17,2025-12-04,,,Proses
+50454,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50454 untuk NIK 100071,100071,415,711,2025-01-30,2025-06-20,,,Proses
+50455,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50455 untuk NIK 100367,100367,827,961,2024-05-06,2025-02-21,,,Proses
+50456,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50456 untuk NIK 100487,100487,10,456,2025-12-01,2025-12-05,2025-12-29,Damai,Selesai
+50457,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50457 untuk NIK 100782,100782,840,545,2025-03-02,2025-05-22,,,Pending
+50458,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50458 untuk NIK 100896,100896,925,688,2024-04-13,2025-10-24,,,Proses
+50459,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50459 untuk NIK 100410,100410,372,582,2025-12-26,2025-12-29,,,Proses
+50460,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50460 untuk NIK 100026,100026,38,848,2025-01-23,2025-05-15,,,Pending
+50461,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50461 untuk NIK 100238,100238,854,188,2024-10-15,2025-09-18,2025-12-29,Kalah,Selesai
+50462,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50462 untuk NIK 100209,100209,531,167,2024-04-08,2025-10-23,,,Proses
+50463,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50463 untuk NIK 100849,100849,285,83,2024-01-18,2025-04-27,,,Pending
+50464,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50464 untuk NIK 100930,100930,545,631,2025-11-05,2025-11-13,,,Proses
+50465,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50465 untuk NIK 100185,100185,326,333,2024-11-23,2025-06-05,,,Proses
+50466,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50466 untuk NIK 100487,100487,86,91,2025-04-21,2025-11-09,2025-12-16,Kalah,Selesai
+50467,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50467 untuk NIK 100804,100804,665,800,2024-10-17,2025-12-27,,,Proses
+50468,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50468 untuk NIK 100021,100021,808,805,2024-11-18,2025-02-28,2025-06-23,Menang,Selesai
+50469,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50469 untuk NIK 100157,100157,78,190,2024-08-31,2024-11-05,2025-10-15,Kalah,Selesai
+50470,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50470 untuk NIK 100520,100520,873,599,2025-05-17,2025-10-15,2025-11-25,Damai,Selesai
+50471,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50471 untuk NIK 100360,100360,150,888,2024-06-19,2025-08-11,,,Proses
+50472,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50472 untuk NIK 100782,100782,552,81,2024-03-13,2025-01-15,2025-08-18,Kalah,Selesai
+50473,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50473 untuk NIK 100059,100059,230,188,2024-11-22,2025-04-04,,,Proses
+50474,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50474 untuk NIK 100916,100916,215,149,2025-04-21,2025-09-08,,,Proses
+50475,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50475 untuk NIK 100001,100001,456,775,2025-06-26,2025-12-14,,,Pending
+50476,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50476 untuk NIK 100595,100595,686,682,2024-03-16,2025-04-09,,,Proses
+50477,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50477 untuk NIK 100884,100884,151,382,2024-12-02,2025-12-29,,,Proses
+50478,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50478 untuk NIK 100232,100232,87,948,2024-12-30,2025-08-21,2025-12-29,Kalah,Selesai
+50479,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50479 untuk NIK 100446,100446,924,994,2024-08-26,2025-06-13,,,Proses
+50480,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50480 untuk NIK 100947,100947,968,903,2024-10-06,2025-07-30,,,Proses
+50481,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50481 untuk NIK 100199,100199,5,777,2024-04-03,2025-08-25,2025-09-03,Damai,Selesai
+50482,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50482 untuk NIK 100297,100297,393,8,2024-05-03,2025-01-14,,,Proses
+50483,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50483 untuk NIK 100737,100737,105,200,2024-06-19,2024-08-29,2024-10-04,Damai,Selesai
+50484,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50484 untuk NIK 100556,100556,286,186,2025-06-24,2025-09-16,2025-10-26,Menang,Selesai
+50485,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50485 untuk NIK 100388,100388,568,957,2025-12-05,2025-12-22,2025-12-30,Kalah,Selesai
+50486,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50486 untuk NIK 100604,100604,292,299,2024-10-21,2025-06-19,,,Pending
+50487,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50487 untuk NIK 100208,100208,835,102,2025-12-24,2025-12-26,,,Proses
+50488,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50488 untuk NIK 100731,100731,288,854,2024-07-31,2025-10-17,,,Pending
+50489,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50489 untuk NIK 100370,100370,889,61,2025-10-31,2025-12-21,,,Proses
+50490,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50490 untuk NIK 100804,100804,189,206,2024-11-22,2025-06-17,,,Pending
+50491,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50491 untuk NIK 100253,100253,383,175,2025-09-17,2025-10-14,,,Proses
+50492,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50492 untuk NIK 100108,100108,983,917,2024-09-25,2025-04-19,,,Pending
+50493,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50493 untuk NIK 100215,100215,986,562,2025-12-22,2025-12-28,,,Proses
+50494,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50494 untuk NIK 100083,100083,608,843,2025-04-04,2025-08-14,2025-11-05,Menang,Selesai
+50495,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50495 untuk NIK 100910,100910,273,6,2025-02-21,2025-03-04,2025-04-17,Menang,Selesai
+50496,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50496 untuk NIK 100304,100304,642,580,2024-07-07,2024-11-18,,,Proses
+50497,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50497 untuk NIK 100042,100042,351,22,2025-04-28,2025-08-23,2025-09-14,Menang,Selesai
+50498,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50498 untuk NIK 100916,100916,419,501,2024-12-29,2025-04-15,,,Pending
+50499,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50499 untuk NIK 100966,100966,331,356,2025-06-17,2025-07-25,2025-11-13,Menang,Selesai
+50500,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50500 untuk NIK 100189,100189,277,406,2025-06-25,2025-08-12,2025-09-02,Menang,Selesai
+50501,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50501 untuk NIK 100869,100869,295,161,2024-07-30,2025-04-05,,,Proses
+50502,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50502 untuk NIK 100461,100461,758,946,2024-07-13,2025-10-15,2025-12-11,Menang,Selesai
+50503,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50503 untuk NIK 100308,100308,60,708,2024-08-21,2025-03-22,2025-04-27,Menang,Selesai
+50504,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50504 untuk NIK 100677,100677,373,287,2024-01-21,2024-05-22,2025-12-18,Damai,Selesai
+50505,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50505 untuk NIK 100848,100848,968,932,2024-05-14,2024-06-02,,,Proses
+50506,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50506 untuk NIK 100412,100412,408,249,2024-09-28,2025-08-11,,,Proses
+50507,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50507 untuk NIK 100475,100475,414,421,2024-11-03,2025-05-17,,,Pending
+50508,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50508 untuk NIK 100491,100491,97,755,2024-08-27,2025-03-27,2025-07-03,Menang,Selesai
+50509,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50509 untuk NIK 100306,100306,499,584,2024-12-30,2025-08-28,,,Proses
+50510,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50510 untuk NIK 100971,100971,448,435,2024-06-08,2025-12-14,,,Pending
+50511,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50511 untuk NIK 100765,100765,165,352,2024-03-26,2025-02-09,2025-12-14,Kalah,Selesai
+50512,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50512 untuk NIK 100413,100413,290,870,2024-07-30,2025-08-07,,,Pending
+50513,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50513 untuk NIK 100124,100124,843,596,2025-09-11,2025-12-22,,,Proses
+50514,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50514 untuk NIK 100424,100424,77,565,2025-12-20,2025-12-21,2025-12-29,Menang,Selesai
+50515,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50515 untuk NIK 100977,100977,247,201,2024-06-16,2024-07-15,,,Proses
+50516,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50516 untuk NIK 100284,100284,355,57,2025-11-11,2025-12-09,,,Proses
+50517,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50517 untuk NIK 100143,100143,443,456,2025-04-02,2025-11-29,,,Proses
+50518,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50518 untuk NIK 100924,100924,841,685,2024-12-24,2025-04-05,2025-05-28,Menang,Selesai
+50519,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50519 untuk NIK 100974,100974,315,647,2025-03-19,2025-08-01,,,Proses
+50520,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50520 untuk NIK 100437,100437,956,804,2024-10-14,2024-12-22,,,Pending
+50521,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50521 untuk NIK 100534,100534,685,185,2024-11-14,2025-11-23,2025-12-01,Kalah,Selesai
+50522,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50522 untuk NIK 100163,100163,516,813,2024-08-25,2025-07-28,,,Proses
+50523,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50523 untuk NIK 100201,100201,398,405,2024-04-01,2025-01-09,2025-08-27,Menang,Selesai
+50524,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50524 untuk NIK 100999,100999,683,937,2024-10-01,2025-04-26,,,Pending
+50525,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50525 untuk NIK 100116,100116,203,344,2024-04-09,2025-02-19,2025-08-17,Damai,Selesai
+50526,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50526 untuk NIK 100647,100647,563,352,2024-02-13,2025-03-07,2025-08-05,Menang,Selesai
+50527,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50527 untuk NIK 100950,100950,283,21,2024-03-28,2025-07-14,,,Proses
+50528,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50528 untuk NIK 100575,100575,376,735,2024-09-04,2025-11-15,2025-11-27,Damai,Selesai
+50529,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50529 untuk NIK 100811,100811,271,28,2024-01-28,2025-03-03,,,Pending
+50530,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50530 untuk NIK 100962,100962,143,62,2025-01-23,2025-02-14,,,Pending
+50531,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50531 untuk NIK 100216,100216,38,191,2024-03-06,2025-10-27,2025-11-17,Damai,Selesai
+50532,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50532 untuk NIK 100706,100706,829,588,2024-09-18,2025-02-10,,,Proses
+50533,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50533 untuk NIK 100284,100284,497,61,2025-07-09,2025-10-30,,,Pending
+50534,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50534 untuk NIK 100895,100895,957,899,2024-10-21,2025-08-24,,,Pending
+50535,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50535 untuk NIK 100663,100663,341,475,2024-02-16,2024-02-23,,,Proses
+50536,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50536 untuk NIK 100775,100775,244,584,2025-03-26,2025-06-12,,,Proses
+50537,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50537 untuk NIK 100042,100042,848,649,2025-08-07,2025-11-21,2025-12-24,Damai,Selesai
+50538,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50538 untuk NIK 100175,100175,675,698,2024-06-01,2025-02-10,,,Proses
+50539,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50539 untuk NIK 100366,100366,589,882,2024-11-04,2025-11-05,2025-12-04,Kalah,Selesai
+50540,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50540 untuk NIK 100413,100413,604,341,2025-04-27,2025-08-24,,,Proses
+50541,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50541 untuk NIK 100203,100203,392,533,2025-05-02,2025-08-30,,,Pending
+50542,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50542 untuk NIK 100556,100556,696,116,2025-05-03,2025-12-01,2025-12-17,Damai,Selesai
+50543,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50543 untuk NIK 100995,100995,774,746,2025-06-06,2025-09-13,,,Proses
+50544,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50544 untuk NIK 100865,100865,886,407,2024-11-23,2025-01-24,,,Proses
+50545,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50545 untuk NIK 100978,100978,433,893,2024-09-05,2025-08-23,,,Pending
+50546,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50546 untuk NIK 100468,100468,396,254,2024-01-20,2024-08-05,,,Pending
+50547,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50547 untuk NIK 100210,100210,810,210,2024-04-28,2025-08-24,,,Proses
+50548,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50548 untuk NIK 100886,100886,987,875,2025-05-23,2025-07-29,,,Proses
+50549,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50549 untuk NIK 100531,100531,141,6,2025-01-19,2025-01-25,2025-12-05,Kalah,Selesai
+50550,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50550 untuk NIK 100427,100427,201,60,2025-10-11,2025-10-28,,,Pending
+50551,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50551 untuk NIK 100028,100028,487,964,2025-05-22,2025-09-13,,,Pending
+50552,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50552 untuk NIK 100157,100157,162,98,2024-05-03,2024-11-04,2025-04-10,Damai,Selesai
+50553,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50553 untuk NIK 100606,100606,815,298,2025-11-17,2025-12-15,,,Pending
+50554,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50554 untuk NIK 100927,100927,846,267,2025-10-29,2025-11-28,,,Pending
+50555,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50555 untuk NIK 100446,100446,945,565,2024-03-21,2025-12-03,,,Proses
+50556,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50556 untuk NIK 100493,100493,207,460,2025-03-03,2025-11-06,,,Pending
+50557,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50557 untuk NIK 100555,100555,608,83,2025-05-30,2025-08-19,,,Pending
+50558,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50558 untuk NIK 100898,100898,433,563,2025-06-05,2025-09-21,,,Proses
+50559,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50559 untuk NIK 100606,100606,692,153,2025-07-20,2025-09-10,,,Pending
+50560,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50560 untuk NIK 100512,100512,103,613,2025-04-20,2025-09-01,2025-09-29,Damai,Selesai
+50561,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50561 untuk NIK 100975,100975,109,774,2025-02-15,2025-04-28,2025-08-01,Menang,Selesai
+50562,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50562 untuk NIK 100414,100414,595,833,2024-09-23,2025-04-23,,,Proses
+50563,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50563 untuk NIK 100211,100211,144,944,2025-06-13,2025-10-16,,,Pending
+50564,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50564 untuk NIK 100856,100856,344,507,2025-01-08,2025-09-19,,,Proses
+50565,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50565 untuk NIK 100703,100703,288,440,2025-04-12,2025-04-25,,,Proses
+50566,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50566 untuk NIK 100823,100823,787,494,2024-06-01,2025-10-19,,,Pending
+50567,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50567 untuk NIK 100484,100484,970,753,2024-11-08,2025-10-15,2025-12-06,Kalah,Selesai
+50568,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50568 untuk NIK 100281,100281,68,482,2025-06-29,2025-09-24,2025-12-10,Kalah,Selesai
+50569,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50569 untuk NIK 100919,100919,9,41,2025-11-02,2025-11-02,,,Proses
+50570,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50570 untuk NIK 100320,100320,86,623,2025-07-23,2025-12-19,2025-12-26,Menang,Selesai
+50571,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50571 untuk NIK 100409,100409,120,154,2024-01-03,2024-06-06,,,Pending
+50572,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50572 untuk NIK 100728,100728,819,599,2025-12-29,2025-12-29,,,Pending
+50573,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50573 untuk NIK 100829,100829,214,437,2024-02-23,2025-02-07,,,Proses
+50574,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50574 untuk NIK 100430,100430,424,288,2024-10-20,2025-03-19,2025-12-12,Kalah,Selesai
+50575,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50575 untuk NIK 100923,100923,596,67,2024-03-20,2025-03-03,2025-09-18,Menang,Selesai
+50576,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50576 untuk NIK 100931,100931,837,766,2024-11-22,2025-03-04,2025-10-05,Kalah,Selesai
+50577,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50577 untuk NIK 100973,100973,545,178,2025-04-14,2025-05-22,,,Pending
+50578,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50578 untuk NIK 100138,100138,977,319,2024-01-11,2024-08-28,,,Proses
+50579,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50579 untuk NIK 100488,100488,131,426,2024-11-14,2025-04-03,,,Proses
+50580,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50580 untuk NIK 101000,101000,610,765,2024-07-02,2024-08-20,,,Pending
+50581,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50581 untuk NIK 100805,100805,509,626,2024-04-20,2025-03-31,,,Proses
+50582,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50582 untuk NIK 100656,100656,752,526,2024-10-18,2025-06-29,,,Proses
+50583,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50583 untuk NIK 100984,100984,148,915,2024-12-15,2025-10-11,,,Proses
+50584,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50584 untuk NIK 100284,100284,33,927,2025-12-13,2025-12-13,2025-12-26,Menang,Selesai
+50585,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50585 untuk NIK 100590,100590,777,988,2024-01-28,2025-09-12,2025-10-17,Kalah,Selesai
+50586,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50586 untuk NIK 100743,100743,921,828,2025-07-24,2025-09-07,,,Proses
+50587,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50587 untuk NIK 100299,100299,1,392,2024-07-28,2025-08-12,,,Proses
+50588,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50588 untuk NIK 100291,100291,883,678,2025-08-11,2025-11-24,,,Proses
+50589,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50589 untuk NIK 100935,100935,849,253,2025-10-23,2025-12-19,,,Pending
+50590,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50590 untuk NIK 100610,100610,40,560,2025-10-10,2025-12-04,2025-12-25,Menang,Selesai
+50591,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50591 untuk NIK 100072,100072,152,898,2025-11-15,2025-12-24,,,Proses
+50592,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50592 untuk NIK 100059,100059,383,555,2024-04-08,2025-03-28,2025-09-11,Damai,Selesai
+50593,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50593 untuk NIK 100112,100112,986,410,2024-07-30,2025-08-12,2025-11-14,Kalah,Selesai
+50594,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50594 untuk NIK 100040,100040,145,331,2025-04-14,2025-07-19,2025-10-15,Kalah,Selesai
+50595,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50595 untuk NIK 100881,100881,596,876,2025-09-26,2025-10-20,,,Pending
+50596,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50596 untuk NIK 100372,100372,652,781,2024-01-17,2024-02-27,2024-06-28,Kalah,Selesai
+50597,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50597 untuk NIK 100092,100092,492,584,2024-02-29,2025-03-30,,,Proses
+50598,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50598 untuk NIK 100500,100500,168,132,2024-04-24,2025-10-18,,,Pending
+50599,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50599 untuk NIK 100523,100523,253,994,2025-08-11,2025-08-11,2025-12-17,Damai,Selesai
+50600,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50600 untuk NIK 100396,100396,950,681,2024-04-19,2025-02-16,,,Proses
+50601,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50601 untuk NIK 100976,100976,702,719,2024-10-17,2024-11-19,2025-11-06,Menang,Selesai
+50602,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50602 untuk NIK 100564,100564,308,915,2025-03-11,2025-07-25,2025-08-26,Menang,Selesai
+50603,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50603 untuk NIK 100253,100253,615,273,2025-01-27,2025-02-15,,,Pending
+50604,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50604 untuk NIK 100687,100687,902,775,2025-10-07,2025-12-20,2025-12-30,Damai,Selesai
+50605,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50605 untuk NIK 100897,100897,62,824,2025-04-29,2025-05-14,,,Proses
+50606,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50606 untuk NIK 100014,100014,465,536,2024-02-05,2024-10-20,,,Proses
+50607,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50607 untuk NIK 100435,100435,833,139,2025-04-07,2025-05-10,,,Proses
+50608,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50608 untuk NIK 100593,100593,308,696,2025-03-02,2025-12-22,,,Proses
+50609,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50609 untuk NIK 100613,100613,58,522,2025-09-18,2025-10-02,,,Proses
+50610,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50610 untuk NIK 100659,100659,555,778,2024-09-20,2025-01-09,,,Proses
+50611,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50611 untuk NIK 100073,100073,130,542,2025-05-11,2025-05-22,,,Proses
+50612,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50612 untuk NIK 100760,100760,237,614,2024-01-23,2024-08-15,,,Proses
+50613,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50613 untuk NIK 100335,100335,430,356,2024-11-12,2025-04-25,,,Proses
+50614,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50614 untuk NIK 100721,100721,721,919,2025-12-11,2025-12-27,,,Proses
+50615,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50615 untuk NIK 100826,100826,182,51,2024-05-23,2025-08-14,2025-10-15,Menang,Selesai
+50616,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50616 untuk NIK 100942,100942,679,7,2024-08-11,2024-12-31,,,Pending
+50617,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50617 untuk NIK 100012,100012,389,461,2024-10-06,2025-04-28,2025-06-17,Damai,Selesai
+50618,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50618 untuk NIK 100142,100142,927,294,2024-09-13,2025-06-15,,,Proses
+50619,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50619 untuk NIK 100188,100188,424,673,2025-01-14,2025-09-30,2025-12-01,Damai,Selesai
+50620,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50620 untuk NIK 100305,100305,777,219,2025-04-20,2025-07-26,,,Proses
+50621,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50621 untuk NIK 100342,100342,728,362,2025-10-06,2025-11-14,,,Proses
+50622,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50622 untuk NIK 100666,100666,371,435,2024-04-09,2024-12-26,2025-01-26,Menang,Selesai
+50623,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50623 untuk NIK 100572,100572,927,421,2024-11-25,2025-06-21,2025-12-16,Menang,Selesai
+50624,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50624 untuk NIK 100863,100863,482,300,2024-03-23,2025-12-18,,,Pending
+50625,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50625 untuk NIK 100441,100441,551,307,2025-11-10,2025-11-25,,,Proses
+50626,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50626 untuk NIK 100486,100486,926,588,2024-07-13,2024-09-29,,,Pending
+50627,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50627 untuk NIK 100341,100341,778,119,2025-10-29,2025-11-04,,,Pending
+50628,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50628 untuk NIK 100358,100358,104,529,2024-01-05,2024-03-20,,,Proses
+50629,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50629 untuk NIK 100293,100293,370,196,2024-05-22,2025-01-01,2025-03-17,Damai,Selesai
+50630,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50630 untuk NIK 100670,100670,941,572,2024-06-07,2024-11-13,2025-10-26,Menang,Selesai
+50631,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50631 untuk NIK 100271,100271,785,993,2024-11-01,2025-04-17,,,Pending
+50632,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50632 untuk NIK 100828,100828,290,166,2024-01-17,2025-02-15,,,Proses
+50633,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50633 untuk NIK 100997,100997,994,198,2025-11-24,2025-12-17,2025-12-30,Kalah,Selesai
+50634,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50634 untuk NIK 100808,100808,231,67,2024-04-22,2025-01-23,,,Pending
+50635,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50635 untuk NIK 100944,100944,689,247,2025-10-09,2025-10-27,,,Pending
+50636,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50636 untuk NIK 100171,100171,897,726,2024-12-17,2025-02-15,2025-03-07,Damai,Selesai
+50637,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50637 untuk NIK 100843,100843,856,846,2025-01-22,2025-09-03,2025-11-20,Menang,Selesai
+50638,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50638 untuk NIK 100393,100393,430,877,2024-11-18,2024-12-01,2025-02-28,Kalah,Selesai
+50639,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50639 untuk NIK 100071,100071,805,900,2025-02-09,2025-04-08,,,Proses
+50640,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50640 untuk NIK 100029,100029,291,589,2025-09-21,2025-11-15,2025-12-07,Kalah,Selesai
+50641,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50641 untuk NIK 100212,100212,314,386,2025-06-23,2025-09-17,2025-12-05,Menang,Selesai
+50642,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50642 untuk NIK 100557,100557,700,352,2025-06-06,2025-12-20,2025-12-27,Kalah,Selesai
+50643,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50643 untuk NIK 100084,100084,643,423,2025-05-29,2025-11-08,2025-12-04,Damai,Selesai
+50644,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50644 untuk NIK 100570,100570,433,773,2025-10-15,2025-10-19,,,Proses
+50645,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50645 untuk NIK 100294,100294,441,277,2025-09-14,2025-10-16,,,Proses
+50646,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50646 untuk NIK 100926,100926,807,249,2024-03-05,2024-05-30,,,Proses
+50647,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50647 untuk NIK 100709,100709,48,942,2024-03-08,2025-07-27,,,Proses
+50648,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50648 untuk NIK 100769,100769,236,101,2025-11-29,2025-11-29,,,Pending
+50649,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50649 untuk NIK 100117,100117,831,192,2024-01-07,2025-05-04,,,Pending
+50650,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50650 untuk NIK 100446,100446,469,535,2025-04-02,2025-11-02,,,Pending
+50651,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50651 untuk NIK 100525,100525,77,406,2025-01-30,2025-10-14,,,Proses
+50652,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50652 untuk NIK 100789,100789,235,377,2024-10-08,2025-04-25,2025-09-14,Menang,Selesai
+50653,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50653 untuk NIK 100164,100164,212,450,2024-06-27,2025-05-18,,,Pending
+50654,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50654 untuk NIK 100381,100381,574,275,2024-06-07,2024-07-01,2025-07-24,Menang,Selesai
+50655,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50655 untuk NIK 100521,100521,898,860,2025-07-08,2025-11-05,2025-11-24,Kalah,Selesai
+50656,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50656 untuk NIK 100042,100042,784,319,2025-10-15,2025-12-01,,,Proses
+50657,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50657 untuk NIK 100444,100444,664,293,2025-01-08,2025-09-23,2025-11-21,Kalah,Selesai
+50658,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50658 untuk NIK 100262,100262,188,467,2024-09-13,2025-05-03,2025-09-28,Kalah,Selesai
+50659,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50659 untuk NIK 100992,100992,696,652,2024-02-01,2025-08-10,,,Proses
+50660,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50660 untuk NIK 100227,100227,118,950,2024-02-07,2025-04-09,,,Proses
+50661,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50661 untuk NIK 100744,100744,849,777,2024-06-30,2025-12-18,,,Proses
+50662,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50662 untuk NIK 100323,100323,607,75,2025-09-02,2025-11-09,,,Proses
+50663,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50663 untuk NIK 100088,100088,698,421,2024-06-01,2025-08-17,,,Pending
+50664,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50664 untuk NIK 100478,100478,749,262,2025-01-26,2025-06-09,,,Pending
+50665,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50665 untuk NIK 100029,100029,25,788,2024-12-27,2025-05-22,2025-07-08,Menang,Selesai
+50666,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50666 untuk NIK 100250,100250,754,938,2024-11-03,2025-02-24,,,Proses
+50667,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50667 untuk NIK 100355,100355,41,219,2024-12-15,2025-11-26,2025-12-28,Menang,Selesai
+50668,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50668 untuk NIK 100415,100415,766,553,2025-05-14,2025-12-11,,,Proses
+50669,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50669 untuk NIK 100450,100450,584,749,2025-12-25,2025-12-28,,,Proses
+50670,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50670 untuk NIK 100166,100166,97,817,2024-11-08,2025-06-23,,,Pending
+50671,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50671 untuk NIK 100324,100324,981,510,2024-12-27,2025-11-23,2025-12-02,Menang,Selesai
+50672,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50672 untuk NIK 100505,100505,832,777,2024-03-27,2025-09-19,,,Proses
+50673,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50673 untuk NIK 100663,100663,57,424,2024-10-24,2025-04-01,,,Proses
+50674,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50674 untuk NIK 100341,100341,402,273,2024-06-30,2025-08-27,,,Proses
+50675,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50675 untuk NIK 100982,100982,627,624,2024-04-21,2025-06-14,,,Pending
+50676,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50676 untuk NIK 100254,100254,482,550,2025-03-07,2025-04-13,,,Pending
+50677,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50677 untuk NIK 100447,100447,433,985,2025-12-21,2025-12-26,,,Proses
+50678,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50678 untuk NIK 100679,100679,293,909,2024-08-21,2025-03-20,,,Proses
+50679,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50679 untuk NIK 100653,100653,639,311,2024-09-22,2025-06-30,,,Pending
+50680,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50680 untuk NIK 100209,100209,277,670,2025-01-02,2025-07-05,2025-08-29,Kalah,Selesai
+50681,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50681 untuk NIK 100696,100696,227,600,2025-04-04,2025-06-01,,,Proses
+50682,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50682 untuk NIK 100809,100809,800,306,2025-03-15,2025-04-21,2025-09-24,Menang,Selesai
+50683,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50683 untuk NIK 100942,100942,165,674,2025-10-06,2025-10-30,,,Proses
+50684,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50684 untuk NIK 100361,100361,532,272,2024-02-11,2024-08-03,2025-03-17,Menang,Selesai
+50685,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50685 untuk NIK 100965,100965,220,521,2024-11-08,2025-07-05,,,Pending
+50686,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50686 untuk NIK 100528,100528,817,407,2024-12-04,2025-04-09,,,Proses
+50687,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50687 untuk NIK 100660,100660,60,408,2025-08-11,2025-08-27,,,Proses
+50688,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50688 untuk NIK 100920,100920,942,200,2024-06-17,2025-02-07,,,Proses
+50689,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50689 untuk NIK 100015,100015,990,979,2025-07-30,2025-08-01,,,Proses
+50690,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50690 untuk NIK 100869,100869,162,796,2025-11-23,2025-11-26,2025-12-22,Kalah,Selesai
+50691,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50691 untuk NIK 100605,100605,924,677,2025-11-04,2025-12-15,,,Pending
+50692,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50692 untuk NIK 100936,100936,741,992,2025-02-01,2025-11-18,2025-11-28,Kalah,Selesai
+50693,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50693 untuk NIK 100872,100872,644,703,2025-05-11,2025-07-27,,,Proses
+50694,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50694 untuk NIK 100275,100275,521,210,2024-02-27,2025-04-07,,,Pending
+50695,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50695 untuk NIK 100872,100872,849,165,2024-12-09,2025-04-09,,,Proses
+50696,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50696 untuk NIK 100735,100735,874,514,2025-10-08,2025-12-21,,,Proses
+50697,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50697 untuk NIK 100331,100331,874,136,2025-10-26,2025-12-25,,,Proses
+50698,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50698 untuk NIK 100079,100079,860,229,2024-11-18,2025-11-16,2025-12-29,Kalah,Selesai
+50699,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50699 untuk NIK 100912,100912,395,883,2025-07-02,2025-09-27,2025-10-24,Kalah,Selesai
+50700,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50700 untuk NIK 100514,100514,911,134,2025-08-21,2025-10-16,,,Proses
+50701,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50701 untuk NIK 100759,100759,812,474,2024-07-05,2025-10-07,,,Proses
+50702,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50702 untuk NIK 100665,100665,856,462,2024-07-22,2025-01-05,,,Proses
+50703,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50703 untuk NIK 100067,100067,386,644,2024-01-19,2025-01-15,,,Proses
+50704,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50704 untuk NIK 100204,100204,813,607,2025-10-18,2025-11-26,,,Proses
+50705,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50705 untuk NIK 100492,100492,737,839,2025-09-20,2025-11-20,2025-12-18,Menang,Selesai
+50706,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50706 untuk NIK 100314,100314,15,947,2025-07-09,2025-08-26,,,Pending
+50707,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50707 untuk NIK 100681,100681,665,430,2025-09-15,2025-11-17,,,Proses
+50708,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50708 untuk NIK 100743,100743,293,711,2024-10-24,2025-10-24,,,Proses
+50709,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50709 untuk NIK 100784,100784,347,628,2024-02-09,2025-04-05,,,Proses
+50710,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50710 untuk NIK 100302,100302,830,974,2025-10-27,2025-11-09,2025-12-10,Menang,Selesai
+50711,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50711 untuk NIK 100006,100006,860,783,2024-02-22,2025-05-05,,,Pending
+50712,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50712 untuk NIK 100620,100620,717,53,2024-03-17,2024-11-12,2025-10-23,Kalah,Selesai
+50713,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50713 untuk NIK 100333,100333,639,665,2024-06-23,2025-02-17,,,Pending
+50714,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50714 untuk NIK 100872,100872,958,30,2024-03-17,2025-01-06,,,Proses
+50715,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50715 untuk NIK 100883,100883,799,265,2025-05-07,2025-09-20,,,Proses
+50716,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50716 untuk NIK 100127,100127,450,430,2024-11-13,2025-12-07,2025-12-28,Menang,Selesai
+50717,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50717 untuk NIK 100475,100475,804,371,2025-07-11,2025-09-23,,,Proses
+50718,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50718 untuk NIK 100275,100275,370,711,2024-06-14,2024-07-05,2025-11-20,Menang,Selesai
+50719,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50719 untuk NIK 100822,100822,620,129,2024-01-13,2024-11-11,,,Proses
+50720,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50720 untuk NIK 100831,100831,691,151,2025-06-18,2025-08-24,,,Pending
+50721,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50721 untuk NIK 100116,100116,145,665,2024-10-02,2025-03-14,,,Proses
+50722,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50722 untuk NIK 100848,100848,501,41,2025-01-14,2025-07-10,2025-10-16,Menang,Selesai
+50723,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50723 untuk NIK 100384,100384,130,542,2024-08-19,2024-10-22,,,Proses
+50724,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50724 untuk NIK 100411,100411,183,74,2024-02-24,2025-05-24,2025-12-30,Damai,Selesai
+50725,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50725 untuk NIK 100568,100568,584,881,2024-12-10,2025-05-03,,,Proses
+50726,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50726 untuk NIK 100068,100068,704,303,2025-08-14,2025-09-24,2025-10-20,Menang,Selesai
+50727,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50727 untuk NIK 100304,100304,13,748,2024-02-23,2025-06-30,,,Proses
+50728,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50728 untuk NIK 100435,100435,436,162,2024-12-28,2025-09-20,2025-10-20,Damai,Selesai
+50729,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50729 untuk NIK 100053,100053,960,112,2025-04-24,2025-12-17,,,Proses
+50730,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50730 untuk NIK 100725,100725,676,693,2024-01-25,2025-09-14,,,Proses
+50731,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50731 untuk NIK 100025,100025,68,443,2024-11-16,2025-03-31,,,Proses
+50732,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50732 untuk NIK 100685,100685,767,111,2025-06-04,2025-12-09,2025-12-22,Menang,Selesai
+50733,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50733 untuk NIK 100230,100230,683,212,2025-12-28,2025-12-30,,,Proses
+50734,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50734 untuk NIK 100361,100361,136,772,2025-05-09,2025-11-13,2025-12-07,Menang,Selesai
+50735,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50735 untuk NIK 100279,100279,390,886,2025-02-08,2025-07-25,2025-11-22,Menang,Selesai
+50736,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50736 untuk NIK 100450,100450,275,188,2024-01-21,2025-02-20,,,Proses
+50737,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50737 untuk NIK 100052,100052,958,979,2024-05-23,2025-03-31,,,Proses
+50738,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50738 untuk NIK 100107,100107,193,154,2024-09-19,2025-03-28,,,Pending
+50739,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50739 untuk NIK 100434,100434,524,348,2024-06-21,2024-07-17,2025-09-23,Menang,Selesai
+50740,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50740 untuk NIK 100580,100580,73,410,2025-09-19,2025-12-20,2025-12-28,Kalah,Selesai
+50741,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50741 untuk NIK 100654,100654,153,150,2024-10-29,2025-09-30,2025-11-03,Damai,Selesai
+50742,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50742 untuk NIK 100568,100568,714,37,2024-10-12,2024-10-26,,,Proses
+50743,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50743 untuk NIK 100609,100609,502,400,2024-03-10,2025-11-05,,,Pending
+50744,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50744 untuk NIK 100460,100460,719,176,2025-12-16,2025-12-18,2025-12-25,Kalah,Selesai
+50745,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50745 untuk NIK 100953,100953,639,454,2025-02-06,2025-02-20,2025-08-24,Menang,Selesai
+50746,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50746 untuk NIK 100145,100145,693,632,2024-06-23,2024-11-21,2025-05-16,Kalah,Selesai
+50747,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50747 untuk NIK 100677,100677,824,874,2025-02-13,2025-11-24,,,Pending
+50748,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50748 untuk NIK 100726,100726,442,395,2025-01-14,2025-12-23,,,Pending
+50749,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50749 untuk NIK 100594,100594,771,440,2025-12-17,2025-12-29,,,Proses
+50750,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50750 untuk NIK 100671,100671,126,238,2024-02-04,2024-05-25,2024-06-29,Damai,Selesai
+50751,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50751 untuk NIK 100628,100628,100,962,2024-07-03,2024-11-04,,,Proses
+50752,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50752 untuk NIK 100971,100971,460,17,2025-06-03,2025-07-22,,,Proses
+50753,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50753 untuk NIK 100787,100787,354,241,2024-08-14,2024-11-01,,,Proses
+50754,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50754 untuk NIK 100928,100928,688,176,2025-10-28,2025-10-29,,,Proses
+50755,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50755 untuk NIK 100039,100039,184,944,2024-04-28,2025-03-03,,,Pending
+50756,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50756 untuk NIK 100626,100626,58,809,2025-08-27,2025-09-23,,,Proses
+50757,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50757 untuk NIK 100247,100247,101,473,2024-11-15,2025-02-25,,,Pending
+50758,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50758 untuk NIK 100383,100383,358,993,2025-09-05,2025-12-10,,,Proses
+50759,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50759 untuk NIK 100417,100417,278,249,2025-08-25,2025-11-13,,,Proses
+50760,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50760 untuk NIK 100255,100255,267,181,2024-05-28,2025-07-30,2025-09-11,Menang,Selesai
+50761,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50761 untuk NIK 100741,100741,486,564,2024-02-01,2025-05-12,2025-08-07,Menang,Selesai
+50762,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50762 untuk NIK 100992,100992,244,769,2025-11-01,2025-12-16,,,Proses
+50763,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50763 untuk NIK 100606,100606,64,294,2024-09-29,2025-09-24,2025-10-30,Damai,Selesai
+50764,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50764 untuk NIK 100812,100812,931,597,2024-07-05,2025-05-24,,,Proses
+50765,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50765 untuk NIK 100193,100193,369,888,2025-12-05,2025-12-09,,,Pending
+50766,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50766 untuk NIK 100902,100902,33,461,2024-12-19,2025-01-04,,,Pending
+50767,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50767 untuk NIK 100109,100109,514,567,2025-09-21,2025-10-23,,,Proses
+50768,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50768 untuk NIK 100331,100331,944,550,2024-05-29,2025-03-12,,,Proses
+50769,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50769 untuk NIK 100612,100612,247,420,2025-11-01,2025-12-11,2025-12-22,Damai,Selesai
+50770,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50770 untuk NIK 100825,100825,792,34,2025-01-04,2025-08-24,2025-11-13,Damai,Selesai
+50771,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50771 untuk NIK 100900,100900,961,251,2025-12-04,2025-12-15,2025-12-22,Kalah,Selesai
+50772,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50772 untuk NIK 100328,100328,460,695,2024-06-17,2024-07-04,,,Pending
+50773,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50773 untuk NIK 100301,100301,148,573,2025-06-26,2025-11-18,,,Proses
+50774,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50774 untuk NIK 100600,100600,51,175,2025-04-29,2025-07-04,2025-10-09,Menang,Selesai
+50775,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50775 untuk NIK 100211,100211,305,920,2024-12-17,2025-10-13,,,Proses
+50776,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50776 untuk NIK 100722,100722,152,930,2025-11-19,2025-12-26,,,Proses
+50777,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50777 untuk NIK 100311,100311,158,216,2025-05-24,2025-09-30,,,Proses
+50778,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50778 untuk NIK 100868,100868,445,248,2024-01-24,2025-04-25,2025-09-01,Kalah,Selesai
+50779,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50779 untuk NIK 100933,100933,14,685,2024-06-25,2024-07-01,,,Proses
+50780,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50780 untuk NIK 100005,100005,104,645,2024-04-07,2025-03-26,2025-10-26,Menang,Selesai
+50781,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50781 untuk NIK 100990,100990,325,143,2025-10-19,2025-10-28,2025-11-16,Menang,Selesai
+50782,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50782 untuk NIK 100166,100166,305,489,2025-08-20,2025-12-01,,,Proses
+50783,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50783 untuk NIK 100875,100875,135,617,2024-08-21,2024-09-23,,,Proses
+50784,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50784 untuk NIK 100769,100769,63,731,2024-07-06,2024-10-12,2024-12-11,Menang,Selesai
+50785,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50785 untuk NIK 100765,100765,84,86,2025-10-11,2025-10-13,2025-11-22,Damai,Selesai
+50786,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50786 untuk NIK 100439,100439,357,159,2024-05-12,2024-05-14,,,Proses
+50787,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50787 untuk NIK 100744,100744,548,311,2025-06-14,2025-11-01,2025-11-20,Menang,Selesai
+50788,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50788 untuk NIK 100477,100477,226,988,2025-06-06,2025-10-20,2025-11-23,Kalah,Selesai
+50789,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50789 untuk NIK 100483,100483,637,607,2025-07-05,2025-12-01,2025-12-26,Damai,Selesai
+50790,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50790 untuk NIK 100918,100918,148,198,2025-05-07,2025-07-28,,,Proses
+50791,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50791 untuk NIK 100498,100498,523,390,2024-05-15,2025-04-16,,,Proses
+50792,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50792 untuk NIK 100787,100787,792,888,2024-03-11,2025-05-06,2025-10-01,Kalah,Selesai
+50793,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50793 untuk NIK 100844,100844,18,714,2024-09-01,2025-02-10,,,Pending
+50794,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50794 untuk NIK 100029,100029,994,161,2025-08-24,2025-08-29,2025-12-03,Kalah,Selesai
+50795,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50795 untuk NIK 100214,100214,208,650,2024-04-12,2024-11-02,,,Proses
+50796,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50796 untuk NIK 100564,100564,848,66,2025-08-13,2025-09-28,,,Proses
+50797,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50797 untuk NIK 100065,100065,603,427,2025-11-18,2025-12-26,,,Pending
+50798,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50798 untuk NIK 100540,100540,702,266,2024-07-28,2025-01-07,,,Proses
+50799,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50799 untuk NIK 100881,100881,916,698,2024-09-01,2025-04-21,,,Proses
+50800,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50800 untuk NIK 100509,100509,336,850,2025-04-15,2025-04-17,,,Proses
+50801,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50801 untuk NIK 100961,100961,200,516,2024-04-15,2024-10-21,,,Pending
+50802,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50802 untuk NIK 100860,100860,636,141,2024-07-17,2025-02-24,,,Proses
+50803,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50803 untuk NIK 100124,100124,236,311,2024-11-18,2025-04-08,2025-04-27,Menang,Selesai
+50804,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50804 untuk NIK 100477,100477,383,909,2025-09-09,2025-12-09,2025-12-23,Damai,Selesai
+50805,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50805 untuk NIK 100231,100231,710,544,2024-06-14,2024-11-05,,,Proses
+50806,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50806 untuk NIK 100626,100626,901,57,2024-09-24,2025-08-28,2025-12-27,Damai,Selesai
+50807,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50807 untuk NIK 100983,100983,245,637,2024-03-05,2025-05-14,,,Proses
+50808,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50808 untuk NIK 100407,100407,441,389,2025-10-26,2025-11-04,2025-11-22,Menang,Selesai
+50809,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50809 untuk NIK 100966,100966,591,241,2024-11-17,2025-04-25,,,Pending
+50810,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50810 untuk NIK 100883,100883,90,45,2024-12-26,2025-02-16,,,Pending
+50811,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50811 untuk NIK 100470,100470,779,150,2025-05-19,2025-12-17,,,Pending
+50812,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50812 untuk NIK 100179,100179,560,845,2025-05-06,2025-08-28,2025-11-02,Kalah,Selesai
+50813,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50813 untuk NIK 100188,100188,466,277,2024-11-10,2025-06-17,,,Proses
+50814,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50814 untuk NIK 100058,100058,611,549,2025-03-13,2025-07-21,,,Proses
+50815,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50815 untuk NIK 100371,100371,792,127,2024-03-11,2024-10-22,,,Proses
+50816,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50816 untuk NIK 100077,100077,491,155,2024-02-13,2025-12-10,,,Proses
+50817,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50817 untuk NIK 100586,100586,533,795,2025-12-26,2025-12-28,,,Proses
+50818,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50818 untuk NIK 100660,100660,987,527,2024-06-01,2025-11-27,,,Pending
+50819,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50819 untuk NIK 100654,100654,647,609,2025-03-05,2025-08-30,,,Pending
+50820,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50820 untuk NIK 100749,100749,814,992,2025-07-13,2025-10-03,2025-12-20,Menang,Selesai
+50821,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50821 untuk NIK 100605,100605,831,190,2025-03-07,2025-03-11,2025-05-27,Menang,Selesai
+50822,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50822 untuk NIK 100745,100745,29,520,2024-03-26,2024-08-09,2025-11-20,Kalah,Selesai
+50823,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50823 untuk NIK 100962,100962,888,637,2025-04-22,2025-09-29,2025-10-24,Kalah,Selesai
+50824,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50824 untuk NIK 100091,100091,850,838,2024-04-24,2025-10-19,2025-10-29,Menang,Selesai
+50825,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50825 untuk NIK 100296,100296,936,212,2024-07-03,2025-05-28,2025-07-19,Menang,Selesai
+50826,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50826 untuk NIK 100155,100155,54,826,2025-09-02,2025-11-16,2025-12-23,Menang,Selesai
+50827,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50827 untuk NIK 100888,100888,376,580,2024-03-15,2025-03-06,2025-06-23,Menang,Selesai
+50828,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50828 untuk NIK 100059,100059,412,559,2024-12-13,2025-04-14,,,Pending
+50829,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50829 untuk NIK 100330,100330,696,255,2024-11-20,2025-08-20,2025-09-21,Kalah,Selesai
+50830,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50830 untuk NIK 100936,100936,950,328,2024-05-17,2025-12-19,,,Proses
+50831,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50831 untuk NIK 100074,100074,687,444,2024-09-04,2025-01-17,,,Proses
+50832,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50832 untuk NIK 100100,100100,111,306,2024-09-21,2025-01-24,2025-07-03,Menang,Selesai
+50833,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50833 untuk NIK 100305,100305,304,792,2025-02-07,2025-12-25,,,Proses
+50834,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50834 untuk NIK 100209,100209,831,81,2025-08-10,2025-12-28,,,Pending
+50835,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50835 untuk NIK 100690,100690,225,378,2024-10-13,2025-02-09,,,Pending
+50836,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50836 untuk NIK 100314,100314,573,13,2025-07-02,2025-12-21,,,Proses
+50837,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50837 untuk NIK 100662,100662,439,110,2024-12-17,2025-03-19,,,Proses
+50838,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50838 untuk NIK 100496,100496,788,325,2024-11-29,2025-03-26,,,Proses
+50839,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50839 untuk NIK 100033,100033,359,344,2025-11-12,2025-12-23,,,Proses
+50840,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50840 untuk NIK 100162,100162,946,285,2024-09-20,2024-11-08,,,Proses
+50841,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50841 untuk NIK 100653,100653,460,80,2024-11-15,2025-11-24,,,Pending
+50842,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50842 untuk NIK 100353,100353,379,163,2024-10-26,2025-07-23,,,Proses
+50843,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50843 untuk NIK 100437,100437,67,876,2024-10-16,2025-12-14,,,Proses
+50844,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50844 untuk NIK 100317,100317,351,984,2024-04-10,2024-11-06,,,Proses
+50845,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50845 untuk NIK 100542,100542,328,710,2024-06-04,2025-01-18,,,Proses
+50846,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50846 untuk NIK 100750,100750,662,556,2025-04-29,2025-05-29,,,Proses
+50847,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50847 untuk NIK 100562,100562,580,423,2024-11-07,2025-08-18,2025-11-15,Menang,Selesai
+50848,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50848 untuk NIK 100410,100410,875,192,2024-03-24,2024-08-31,,,Pending
+50849,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50849 untuk NIK 100173,100173,152,7,2024-03-31,2025-09-24,2025-11-30,Menang,Selesai
+50850,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50850 untuk NIK 100949,100949,22,135,2024-01-24,2025-04-30,2025-09-27,Menang,Selesai
+50851,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50851 untuk NIK 100703,100703,640,130,2025-11-28,2025-12-09,,,Pending
+50852,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50852 untuk NIK 100507,100507,806,879,2025-03-19,2025-10-21,,,Proses
+50853,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50853 untuk NIK 100666,100666,535,531,2024-04-15,2024-08-28,2024-12-09,Menang,Selesai
+50854,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50854 untuk NIK 100562,100562,779,991,2025-07-16,2025-07-31,,,Proses
+50855,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50855 untuk NIK 100936,100936,112,722,2024-04-21,2025-10-31,,,Proses
+50856,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50856 untuk NIK 100661,100661,434,496,2025-04-16,2025-11-09,2025-12-19,Menang,Selesai
+50857,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50857 untuk NIK 100495,100495,40,575,2024-09-22,2025-05-29,,,Pending
+50858,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50858 untuk NIK 100733,100733,558,177,2024-07-05,2024-12-16,,,Proses
+50859,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50859 untuk NIK 100831,100831,317,894,2025-07-14,2025-10-28,2025-12-23,Damai,Selesai
+50860,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50860 untuk NIK 100640,100640,249,241,2025-01-13,2025-01-24,,,Proses
+50861,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50861 untuk NIK 100677,100677,416,740,2025-12-22,2025-12-27,,,Pending
+50862,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50862 untuk NIK 100450,100450,524,910,2024-10-05,2025-12-03,,,Proses
+50863,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50863 untuk NIK 100299,100299,276,530,2024-11-23,2025-08-18,2025-08-29,Menang,Selesai
+50864,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50864 untuk NIK 100197,100197,872,545,2024-03-15,2024-07-22,,,Proses
+50865,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50865 untuk NIK 100488,100488,100,229,2024-03-08,2025-02-18,,,Pending
+50866,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50866 untuk NIK 100485,100485,631,381,2025-05-25,2025-10-01,,,Proses
+50867,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50867 untuk NIK 100187,100187,381,969,2024-11-09,2024-12-15,,,Pending
+50868,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50868 untuk NIK 100721,100721,489,453,2024-08-19,2024-12-14,2024-12-21,Menang,Selesai
+50869,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50869 untuk NIK 100708,100708,244,512,2024-08-03,2025-10-20,2025-11-04,Damai,Selesai
+50870,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50870 untuk NIK 100284,100284,625,394,2025-04-19,2025-08-03,2025-08-22,Menang,Selesai
+50871,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50871 untuk NIK 100043,100043,910,275,2025-07-15,2025-10-16,2025-12-09,Menang,Selesai
+50872,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50872 untuk NIK 100311,100311,678,235,2025-02-18,2025-05-06,,,Proses
+50873,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50873 untuk NIK 100324,100324,364,352,2024-09-21,2025-11-29,,,Proses
+50874,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50874 untuk NIK 100866,100866,248,607,2024-11-25,2025-03-09,,,Proses
+50875,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50875 untuk NIK 100607,100607,476,291,2024-10-30,2025-10-17,2025-11-13,Damai,Selesai
+50876,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50876 untuk NIK 100569,100569,170,525,2025-11-12,2025-12-05,,,Proses
+50877,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50877 untuk NIK 100050,100050,638,367,2025-07-19,2025-12-27,,,Proses
+50878,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50878 untuk NIK 100810,100810,904,779,2024-06-18,2025-01-13,,,Proses
+50879,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50879 untuk NIK 100699,100699,657,843,2024-05-14,2025-02-17,2025-12-27,Menang,Selesai
+50880,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50880 untuk NIK 100830,100830,318,233,2025-07-12,2025-07-29,2025-12-04,Kalah,Selesai
+50881,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50881 untuk NIK 100651,100651,877,135,2025-08-16,2025-11-02,2025-11-28,Menang,Selesai
+50882,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50882 untuk NIK 100537,100537,508,73,2024-10-09,2025-03-17,2025-08-20,Kalah,Selesai
+50883,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50883 untuk NIK 100979,100979,692,816,2025-09-15,2025-12-24,,,Pending
+50884,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50884 untuk NIK 100935,100935,24,889,2024-10-02,2025-11-07,,,Proses
+50885,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50885 untuk NIK 100118,100118,369,852,2025-07-20,2025-08-08,,,Proses
+50886,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50886 untuk NIK 100612,100612,341,807,2024-11-18,2025-09-17,,,Pending
+50887,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50887 untuk NIK 100081,100081,391,312,2025-09-14,2025-10-12,,,Proses
+50888,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50888 untuk NIK 100472,100472,457,996,2025-06-17,2025-11-27,,,Proses
+50889,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50889 untuk NIK 100035,100035,873,446,2025-02-23,2025-10-14,,,Pending
+50890,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50890 untuk NIK 100644,100644,333,233,2024-07-10,2025-03-19,,,Proses
+50891,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50891 untuk NIK 100540,100540,444,102,2025-06-29,2025-11-14,,,Proses
+50892,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50892 untuk NIK 100361,100361,385,622,2024-10-23,2025-04-15,,,Proses
+50893,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50893 untuk NIK 100510,100510,984,121,2025-07-01,2025-09-19,,,Proses
+50894,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50894 untuk NIK 100297,100297,211,574,2025-06-22,2025-12-26,,,Proses
+50895,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50895 untuk NIK 100048,100048,560,187,2025-07-03,2025-08-18,,,Proses
+50896,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50896 untuk NIK 100774,100774,939,190,2024-05-19,2025-04-02,2025-12-04,Menang,Selesai
+50897,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50897 untuk NIK 100136,100136,138,647,2024-03-02,2024-04-27,,,Proses
+50898,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50898 untuk NIK 100214,100214,177,854,2025-01-17,2025-05-10,2025-10-21,Menang,Selesai
+50899,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50899 untuk NIK 100189,100189,72,169,2024-09-17,2025-05-17,2025-11-19,Damai,Selesai
+50900,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50900 untuk NIK 100186,100186,928,674,2025-12-22,2025-12-28,,,Proses
+50901,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50901 untuk NIK 100682,100682,991,942,2024-08-05,2025-12-22,,,Pending
+50902,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50902 untuk NIK 100228,100228,735,523,2025-04-11,2025-07-02,,,Proses
+50903,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50903 untuk NIK 100281,100281,726,348,2024-01-16,2025-01-07,,,Proses
+50904,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50904 untuk NIK 100304,100304,300,204,2024-11-23,2025-06-25,,,Pending
+50905,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50905 untuk NIK 100170,100170,406,57,2024-10-16,2025-12-23,,,Pending
+50906,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50906 untuk NIK 100062,100062,368,910,2025-08-19,2025-09-06,,,Proses
+50907,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50907 untuk NIK 101000,101000,201,822,2025-04-13,2025-06-19,,,Pending
+50908,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50908 untuk NIK 100500,100500,418,313,2024-12-16,2025-12-24,,,Pending
+50909,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50909 untuk NIK 100264,100264,231,248,2024-12-24,2025-08-23,,,Pending
+50910,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50910 untuk NIK 100513,100513,99,14,2024-08-07,2025-12-10,,,Pending
+50911,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50911 untuk NIK 100742,100742,356,193,2024-09-15,2025-11-26,,,Pending
+50912,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50912 untuk NIK 100043,100043,346,646,2025-01-10,2025-07-18,,,Proses
+50913,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50913 untuk NIK 100760,100760,643,445,2024-12-16,2025-12-04,2025-12-12,Damai,Selesai
+50914,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50914 untuk NIK 100342,100342,291,448,2025-08-04,2025-11-10,2025-12-18,Menang,Selesai
+50915,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50915 untuk NIK 100712,100712,388,483,2025-02-05,2025-12-12,,,Proses
+50916,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50916 untuk NIK 100989,100989,873,460,2025-05-30,2025-06-17,2025-08-17,Kalah,Selesai
+50917,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50917 untuk NIK 100927,100927,661,834,2024-10-01,2025-04-25,,,Proses
+50918,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50918 untuk NIK 100633,100633,789,804,2025-05-14,2025-08-20,,,Proses
+50919,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50919 untuk NIK 100935,100935,814,18,2024-04-03,2024-10-29,,,Proses
+50920,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50920 untuk NIK 100114,100114,386,611,2025-03-26,2025-05-06,,,Proses
+50921,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50921 untuk NIK 100711,100711,949,724,2024-02-19,2024-08-05,,,Proses
+50922,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50922 untuk NIK 100996,100996,904,722,2025-10-11,2025-10-22,,,Proses
+50923,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50923 untuk NIK 100923,100923,76,232,2025-10-18,2025-11-18,,,Proses
+50924,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50924 untuk NIK 100059,100059,695,104,2025-06-23,2025-08-19,2025-09-24,Kalah,Selesai
+50925,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50925 untuk NIK 100491,100491,85,304,2025-04-11,2025-04-21,2025-10-18,Kalah,Selesai
+50926,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50926 untuk NIK 100429,100429,398,902,2024-02-13,2025-01-07,2025-06-05,Kalah,Selesai
+50927,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50927 untuk NIK 100603,100603,66,773,2024-07-28,2025-05-03,2025-06-25,Damai,Selesai
+50928,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50928 untuk NIK 100043,100043,2,862,2024-10-22,2024-12-11,,,Pending
+50929,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50929 untuk NIK 100695,100695,44,50,2024-07-05,2025-04-21,,,Proses
+50930,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50930 untuk NIK 100633,100633,739,739,2024-03-11,2024-04-16,,,Proses
+50931,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50931 untuk NIK 100739,100739,433,861,2024-05-26,2025-02-15,,,Proses
+50932,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50932 untuk NIK 100540,100540,630,634,2025-12-13,2025-12-21,,,Pending
+50933,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50933 untuk NIK 100983,100983,709,65,2024-12-06,2025-03-14,2025-05-26,Menang,Selesai
+50934,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50934 untuk NIK 100510,100510,903,294,2024-10-15,2025-03-15,2025-08-16,Damai,Selesai
+50935,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50935 untuk NIK 100989,100989,87,543,2024-10-20,2025-12-15,2025-12-28,Menang,Selesai
+50936,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50936 untuk NIK 100903,100903,533,361,2024-12-05,2025-07-03,2025-07-20,Damai,Selesai
+50937,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50937 untuk NIK 100350,100350,560,323,2024-10-21,2025-09-16,2025-12-04,Menang,Selesai
+50938,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50938 untuk NIK 100358,100358,821,978,2024-04-13,2025-02-13,,,Proses
+50939,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50939 untuk NIK 100800,100800,3,384,2025-04-02,2025-05-07,2025-06-04,Kalah,Selesai
+50940,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50940 untuk NIK 100230,100230,121,856,2024-08-28,2024-10-04,,,Proses
+50941,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50941 untuk NIK 100607,100607,982,870,2025-02-26,2025-03-17,,,Proses
+50942,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50942 untuk NIK 100025,100025,937,78,2025-03-18,2025-04-19,,,Proses
+50943,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50943 untuk NIK 100992,100992,395,540,2024-11-29,2025-01-31,2025-04-20,Menang,Selesai
+50944,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50944 untuk NIK 100171,100171,766,746,2025-10-18,2025-12-16,,,Proses
+50945,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50945 untuk NIK 100604,100604,404,899,2024-10-09,2025-05-15,,,Proses
+50946,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50946 untuk NIK 100964,100964,394,406,2025-09-26,2025-12-25,,,Proses
+50947,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50947 untuk NIK 101000,101000,142,398,2024-04-06,2024-08-17,,,Proses
+50948,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50948 untuk NIK 100193,100193,122,410,2025-11-18,2025-12-13,,,Pending
+50949,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50949 untuk NIK 100531,100531,219,163,2025-12-14,2025-12-22,,,Proses
+50950,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50950 untuk NIK 100445,100445,264,676,2024-10-14,2025-03-27,2025-08-30,Menang,Selesai
+50951,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50951 untuk NIK 100987,100987,691,157,2025-03-29,2025-08-25,,,Pending
+50952,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50952 untuk NIK 100510,100510,800,932,2024-01-22,2024-05-02,2025-02-03,Kalah,Selesai
+50953,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50953 untuk NIK 100133,100133,436,577,2025-09-03,2025-10-25,2025-11-04,Menang,Selesai
+50954,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50954 untuk NIK 100212,100212,10,706,2024-05-04,2024-10-29,,,Proses
+50955,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50955 untuk NIK 100498,100498,645,641,2025-07-10,2025-08-14,,,Pending
+50956,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50956 untuk NIK 100256,100256,313,230,2025-03-22,2025-12-08,2025-12-17,Menang,Selesai
+50957,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50957 untuk NIK 100723,100723,115,994,2024-11-09,2025-05-07,2025-06-17,Menang,Selesai
+50958,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50958 untuk NIK 100773,100773,801,550,2024-07-10,2024-12-21,,,Proses
+50959,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50959 untuk NIK 100371,100371,464,270,2024-08-13,2025-05-23,,,Proses
+50960,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50960 untuk NIK 100149,100149,607,664,2024-07-10,2025-05-28,2025-07-25,Menang,Selesai
+50961,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50961 untuk NIK 100295,100295,801,998,2025-11-22,2025-11-23,2025-11-30,Kalah,Selesai
+50962,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50962 untuk NIK 100830,100830,859,767,2025-05-30,2025-11-28,2025-12-28,Menang,Selesai
+50963,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50963 untuk NIK 100656,100656,656,477,2024-06-15,2025-01-27,,,Proses
+50964,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50964 untuk NIK 100226,100226,137,385,2025-09-11,2025-10-29,,,Pending
+50965,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50965 untuk NIK 100168,100168,877,353,2024-11-16,2025-05-25,,,Proses
+50966,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50966 untuk NIK 100757,100757,951,747,2025-10-07,2025-10-25,,,Proses
+50967,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50967 untuk NIK 100148,100148,726,852,2025-11-10,2025-12-24,,,Proses
+50968,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50968 untuk NIK 100039,100039,947,891,2025-04-15,2025-12-01,2025-12-22,Damai,Selesai
+50969,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50969 untuk NIK 100484,100484,499,450,2024-09-10,2025-12-16,,,Pending
+50970,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50970 untuk NIK 100785,100785,392,19,2024-10-08,2025-09-02,,,Proses
+50971,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50971 untuk NIK 100767,100767,901,954,2025-10-31,2025-11-26,2025-12-15,Damai,Selesai
+50972,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50972 untuk NIK 100461,100461,630,329,2025-04-07,2025-11-08,2025-12-14,Menang,Selesai
+50973,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50973 untuk NIK 100801,100801,632,705,2025-04-27,2025-07-21,,,Pending
+50974,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50974 untuk NIK 100067,100067,351,251,2024-11-06,2025-11-16,2025-12-16,Menang,Selesai
+50975,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50975 untuk NIK 100326,100326,369,345,2024-10-03,2024-11-02,,,Proses
+50976,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50976 untuk NIK 100600,100600,215,721,2024-04-03,2025-01-29,2025-08-03,Damai,Selesai
+50977,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50977 untuk NIK 100896,100896,536,802,2025-04-17,2025-10-08,,,Proses
+50978,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50978 untuk NIK 100927,100927,313,107,2025-10-09,2025-12-29,,,Proses
+50979,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50979 untuk NIK 100220,100220,232,464,2024-12-16,2025-03-08,,,Pending
+50980,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50980 untuk NIK 100358,100358,805,301,2025-08-29,2025-12-02,,,Pending
+50981,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50981 untuk NIK 100085,100085,632,131,2025-06-01,2025-09-09,2025-12-21,Kalah,Selesai
+50982,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50982 untuk NIK 100772,100772,550,517,2024-12-16,2025-05-25,,,Pending
+50983,Bisnis: Wanprestasi,Kasus Bisnis: Wanprestasi No. 50983 untuk NIK 100338,100338,64,780,2024-02-16,2025-03-08,,,Proses
+50984,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50984 untuk NIK 100392,100392,773,603,2025-10-21,2025-12-14,,,Proses
+50985,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50985 untuk NIK 100645,100645,815,953,2025-04-25,2025-10-06,,,Proses
+50986,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50986 untuk NIK 100961,100961,453,180,2024-06-09,2025-08-08,,,Proses
+50987,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50987 untuk NIK 100458,100458,525,355,2024-12-23,2025-01-21,2025-12-18,Menang,Selesai
+50988,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50988 untuk NIK 100095,100095,233,568,2025-04-14,2025-05-09,2025-11-05,Kalah,Selesai
+50989,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50989 untuk NIK 100163,100163,423,788,2025-01-20,2025-04-24,,,Proses
+50990,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50990 untuk NIK 100067,100067,428,148,2024-05-12,2025-08-20,2025-10-12,Menang,Selesai
+50991,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50991 untuk NIK 100730,100730,720,997,2024-02-27,2025-08-01,,,Proses
+50992,Tata Usaha Negara: Sengketa Izin,Kasus Tata Usaha Negara: Sengketa Izin No. 50992 untuk NIK 100490,100490,120,347,2024-03-31,2025-03-26,,,Proses
+50993,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50993 untuk NIK 100213,100213,544,646,2025-05-29,2025-11-12,,,Proses
+50994,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50994 untuk NIK 100614,100614,781,134,2024-04-15,2025-02-27,,,Proses
+50995,Perdata: Sengketa Tanah,Kasus Perdata: Sengketa Tanah No. 50995 untuk NIK 100514,100514,312,532,2025-08-14,2025-12-28,,,Proses
+50996,Pidana: Penggelapan,Kasus Pidana: Penggelapan No. 50996 untuk NIK 100865,100865,325,735,2024-04-26,2025-12-12,,,Proses
+50997,Hukum Properti: Jual Beli,Kasus Hukum Properti: Jual Beli No. 50997 untuk NIK 100482,100482,947,485,2024-04-16,2025-02-15,2025-10-09,Kalah,Selesai
+50998,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50998 untuk NIK 100656,100656,985,514,2024-07-04,2025-02-28,2025-08-23,Kalah,Selesai
+50999,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 50999 untuk NIK 100634,100634,578,556,2024-01-08,2025-03-14,2025-10-24,Kalah,Selesai
+51000,Keluarga: Cerai Gugat,Kasus Keluarga: Cerai Gugat No. 51000 untuk NIK 100472,100472,917,437,2025-01-09,2025-08-11,,,Pending

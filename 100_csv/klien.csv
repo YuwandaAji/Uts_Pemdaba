@@ -1,0 +1,171 @@
+NIK,Nama_Klien,Tgl_Daftar,No_Tlp_K,Email_K,Alamat_K,Gender_K,Tmpt_tgl_lhr_K,Tgl_lhr_K,Jenis_LH
+3501041203050001,Joko Santoso,2025-06-10,81234567890,joko.santoso@mail.com,Jl. Merdeka No. 10,Laki-Laki,Surabaya,1995-10-20,1
+3501041203050002,Siti Aisyah,2025-06-11,81345678901,siti.aisyah@mail.com,Jl. Kembang Sari 2A,Wanita,Bandung,1998-05-15,2
+3501041203050003,Bambang Pamungkas,2025-06-11,85789012345,bambang.p@mail.com,Jl. Pahlawan 15,Laki-Laki,Jakarta,1990-01-01,1
+3501041203050004,Dewi Lestari,2025-06-12,87801234567,dewi.lestari@mail.com,Komplek Griya Indah Blok C5,Wanita,Yogyakarta,2001-11-30,2
+3501041203050005,Rudi Hartono,2025-06-12,82123456789,rudi.hartono@mail.com,Gg. Makmur No. 8,Laki-Laki,Medan,1985-07-25,2
+3501041203050006,Putri Amelia,2025-06-13,85234567890,putri.amelia@mail.com,Perumahan Harmoni Blok A10,Wanita,Semarang,1993-03-12,1
+3501041203050007,Faisal Rahman,2025-06-13,81567890123,faisal.rahman@mail.com,Jl. Raya Utara Km. 5,Laki-Laki,Malang,2000-09-05,2
+3501041203050008,Maya Sari,2025-06-14,81890123456,maya.sari@mail.com,Jl. Kenanga No. 45,Wanita,Jakarta,1996-12-08,1
+3501041203050009,Hadi Wijaya,2025-06-14,85678901234,hadi.wijaya@mail.com,Kp. Rambutan RT 03/RW 01,Laki-Laki,Surabaya,1988-04-22,2
+3501041203050010,Nina Kartika,2025-06-15,81901234567,nina.kartika@mail.com,Jl. Damai 33,Wanita,Bandung,1992-06-18,2
+3501041203050011,Taufik Hidayat,2025-06-15,81112345678,taufik.h@mail.com,Perumahan Citra Asri No. 12,Laki-Laki,Bekasi,1987-02-14,1
+3501041203050012,Linda Susanti,2025-06-16,85823456789,linda.susanti@mail.com,Jl. Kebon Jeruk 10B,Wanita,Bogor,1999-08-28,2
+3501041203050013,Dedi Iskandar,2025-06-16,87734567890,dedi.iskandar@mail.com,Jl. Kancil No. 7,Laki-Laki,Gresik,1994-04-03,1
+3501041203050014,Ayu Wulandari,2025-06-17,82245678901,ayu.wulandari@mail.com,Komplek Permata Hijau Z9,Wanita,Sidoarjo,2002-10-10,2
+3501041203050015,Eko Prasetyo,2025-06-17,81656789012,eko.prasetyo@mail.com,Jl. Elang No. 22,Laki-Laki,Palembang,1984-11-27,1
+3501041203050016,Vina Oktavia,2025-06-18,85367890123,vina.oktavia@mail.com,Jl. Veteran 55,Wanita,Makassar,1997-01-05,2
+3501041203050017,Bayu Nugroho,2025-06-18,81778901234,bayu.nugroho@mail.com,Gg. Sejahtera 14,Laki-Laki,Depok,1991-05-20,1
+3501041203050018,Rina Sari,2025-06-19,81489012345,rina.sari@mail.com,Perumahan Nusa Indah B3,Wanita,Tangerang,1995-12-19,2
+3501041203050019,Andi Pratama,2025-06-19,85990123456,andi.pratama@mail.com,Jl. Cendrawasih 11,Laki-Laki,Cirebon,1989-06-07,2
+3501041203050020,Mega Wijaya,2025-06-20,87901234567,mega.wijaya@mail.com,Jl. Setia Budi No. 19,Wanita,Solo,2003-09-02,1
+3501041203050021,Gilang Ramadhan,2025-06-20,82301234567,gilang.r@mail.com,Komplek Jaya Abadi 4,Laki-Laki,Pekanbaru,1996-03-24,2
+3501041203050022,Citra Dewi,2025-06-21,81102345678,citra.dewi@mail.com,Jl. Mawar Merah 8A,Wanita,Samarinda,1986-10-14,1
+3501041203050023,Denny Malik,2025-06-21,85513456789,denny.malik@mail.com,Gg. Kecil No. 22,Laki-Laki,Banjarmasin,1993-01-29,2
+3501041203050024,Fina Rahmawati,2025-06-22,87624567890,fina.r@mail.com,Jl. Mangga Dua 77,Wanita,Padang,2000-07-06,2
+3501041203050025,Ivan Darmawan,2025-06-22,82035678901,ivan.d@mail.com,Perumahan Hijau Daun F6,Laki-Laki,Denpasar,1983-04-17,1
+3501041203050026,Kiki Handayani,2025-06-23,81446789012,kiki.h@mail.com,Jl. Nangka 18,Wanita,Makassar,1998-11-23,2
+3501041203050027,Lukman Hakim,2025-06-23,85157890123,lukman.h@mail.com,Komplek Sejuta Bintang 1B,Laki-Laki,Jakarta,1990-12-01,1
+3501041203050028,Mutiara Indah,2025-06-24,87268901234,mutiara.i@mail.com,Jl. Kuda Terbang 3,Wanita,Surabaya,1994-02-16,2
+3501041203050029,Nova Setyawan,2025-06-24,82779012345,nova.s@mail.com,Gg. Buntu No. 1,Laki-Laki,Bandung,1985-08-30,2
+3501041203050030,Puspa Sari,2025-06-25,81380123456,puspa.sari@mail.com,Jl. Anggrek Hitam 9,Wanita,Yogyakarta,2001-04-09,1
+3501041203050031,Rahmat Jaya,2025-06-25,85491234567,rahmat.jaya@mail.com,Perumahan Nusa Bakti C8,Laki-Laki,Medan,1999-07-13,2
+3501041203050032,Siska Melati,2025-06-26,87502345678,siska.melati@mail.com,Jl. Pulau Bali No. 50,Wanita,Semarang,1997-09-29,1
+3501041203050033,Tegar Saputra,2025-06-26,82913456789,tegar.s@mail.com,Kp. Nelayan RT 01/RW 05,Laki-Laki,Malang,1988-06-04,2
+3501041203050034,Umi Kalsum,2025-06-27,81024567890,umi.kalsum@mail.com,Jl. Cempaka Putih 17,Wanita,Jakarta,1992-03-21,1
+3501041203050035,Vicky Aditya,2025-06-27,85335678901,vicky.a@mail.com,Jl. Kartini No. 4,Laki-Laki,Surabaya,1995-10-02,2
+3501041203050036,Wulan Guritno,2025-06-28,87446789012,wulan.g@mail.com,Komplek Mega Indah D1,Wanita,Bandung,1986-11-11,2
+3501041203050037,Yusuf Mansyur,2025-06-28,82857890123,yusuf.m@mail.com,Jl. Gatot Subroto 7,Laki-Laki,Bekasi,2000-01-26,1
+3501041203050038,Zahra Lutfia,2025-06-29,81268901234,zahra.lutfia@mail.com,Gg. Harapan Jaya 10,Wanita,Bogor,1993-05-08,2
+3501041203050039,Abdul Gani,2025-06-29,85079012345,abdul.gani@mail.com,Jl. Sudirman 88,Laki-Laki,Gresik,1987-12-15,1
+3501041203050040,Bunga Citra,2025-06-30,87180123456,bunga.citra@mail.com,Perumahan Mutiara Blok G2,Wanita,Sidoarjo,1998-08-03,2
+3501041203050041,Candra Kirana,2025-06-30,82691234567,candra.k@mail.com,Jl. Rajawali No. 30,Laki-Laki,Palembang,1991-03-10,1
+3501041203050042,Diana Putri,2025-07-01,81302345678,diana.putri@mail.com,Komplek Elite 2,Wanita,Makassar,1996-09-01,2
+3501041203050043,Erick Thohir,2025-07-01,85413456789,erick.t@mail.com,Jl. Diponegoro 12,Laki-Laki,Depok,1984-06-26,2
+3501041203050044,Ferry Irawan,2025-07-02,87524567890,ferry.irawan@mail.com,Gg. Damai Sejati 5,Laki-Laki,Tangerang,1999-02-18,1
+3501041203050045,Gita Gutawa,2025-07-02,82935678901,gita.gutawa@mail.com,Jl. Pahlawan Seribu 6,Wanita,Cirebon,1994-07-07,2
+3501041203050046,Hesti Purwadinata,2025-07-03,81046789012,hesti.p@mail.com,Perumahan Kencana Indah B4,Wanita,Solo,1989-11-25,1
+3501041203050047,Imam Syafei,2025-07-03,85357890123,imam.syafei@mail.com,Jl. Lurus No. 100,Laki-Laki,Pekanbaru,2003-01-16,2
+3501041203050048,Jihan Audy,2025-07-04,87468901234,jihan.audy@mail.com,Komplek Bintang Timur C7,Wanita,Samarinda,1997-04-29,2
+3501041203050049,Kevin Julio,2025-07-04,82879012345,kevin.julio@mail.com,Jl. Kucing Garong 1,Laki-Laki,Banjarmasin,1992-10-23,1
+3501041203050050,Lia Emilia,2025-07-05,81280123456,lia.emilia@mail.com,Jl. Kembang Api No. 11,Wanita,Padang,1985-05-09,2
+3501041203050051,Mario Teguh,2025-07-05,85091234567,mario.teguh@mail.com,Perumahan Griya Asri No. 1,Laki-Laki,Denpasar,1996-12-03,1
+3501041203050052,Nia Ramadhani,2025-07-06,87102345678,nia.r@mail.com,Jl. Sukamaju 44,Wanita,Makassar,1990-03-06,2
+3501041203050053,Omar Daniel,2025-07-06,82613456789,omar.daniel@mail.com,Gg. Tenang No. 2,Laki-Laki,Jakarta,1994-09-19,2
+3501041203050054,Pevita Pearce,2025-07-07,81324567890,pevita.p@mail.com,Jl. Senopati 5,Wanita,Surabaya,2001-01-14,1
+3501041203050055,Qory Sandioriva,2025-07-07,85435678901,qory.s@mail.com,Komplek Indah Jaya E3,Wanita,Bandung,1998-06-29,2
+3501041203050056,Rizky Febian,2025-07-08,87546789012,rizky.f@mail.com,Jl. Gajah Mada 10,Laki-Laki,Yogyakarta,1995-02-05,1
+3501041203050057,Sheila Dara,2025-07-08,82957890123,sheila.dara@mail.com,Perumahan Elok Blok F1,Wanita,Medan,1993-08-11,2
+3501041203050058,Tanta Ginting,2025-07-09,81068901234,tanta.g@mail.com,Jl. Hutan Kota 21,Laki-Laki,Semarang,1988-04-01,1
+3501041203050059,Umar Bakri,2025-07-09,85379012345,umar.bakri@mail.com,Gg. Belakang No. 9,Laki-Laki,Malang,2000-11-20,2
+3501041203050060,Vanesha Prescilla,2025-07-10,87480123456,vanesha.p@mail.com,Jl. Ciliwung 15,Wanita,Jakarta,1999-05-22,2
+3501041203050061,Widi Mulia,2025-07-10,82891234567,widi.mulia@mail.com,Komplek Permai Indah K2,Wanita,Surabaya,1986-10-07,1
+3501041203050062,Xavier Pranata,2025-07-11,81202345678,xavier.p@mail.com,Jl. Kelapa Hijau 33,Laki-Laki,Bandung,1991-01-25,2
+3501041203050063,Yuni Shara,2025-07-11,85013456789,yuni.shara@mail.com,Perumahan Sentosa Jaya No. 18,Wanita,Bekasi,1996-07-04,1
+3501041203050064,Zulkifli Hasan,2025-07-12,87124567890,zulkifli.h@mail.com,Jl. Bambu Runcing 7,Laki-Laki,Bogor,1983-12-19,2
+3501041203050065,Angga Dwimas,2025-07-12,82635678901,angga.dwimas@mail.com,Gg. Mawar Indah 6,Laki-Laki,Gresik,2002-09-17,1
+3501041203050066,Bella Saphira,2025-07-13,81346789012,bella.saphira@mail.com,Jl. Nila No. 25,Wanita,Sidoarjo,1990-04-12,2
+3501041203050067,Chairul Tanjung,2025-07-13,85457890123,chairul.t@mail.com,Komplek Cipta Rasa A8,Laki-Laki,Palembang,1995-11-06,2
+3501041203050068,Dian Sastro,2025-07-14,87568901234,dian.sastro@mail.com,Jl. Buntu No. 1,Wanita,Makassar,1988-03-16,1
+3501041203050069,Emil Dardak,2025-07-14,82979012345,emil.dardak@mail.com,Perumahan Sukses Bersama 3,Laki-Laki,Depok,1993-10-31,2
+3501041203050070,Fauzi Bowo,2025-07-15,81080123456,fauzi.bowo@mail.com,Jl. Kemang Raya 50,Laki-Laki,Tangerang,1986-05-24,1
+3501041203050071,Gading Marten,2025-07-15,85391234567,gading.marten@mail.com,Gg. Lurus 20,Laki-Laki,Cirebon,1997-02-09,2
+3501041203050072,Hannah Al Rashid,2025-07-16,87402345678,hannah.a@mail.com,Jl. Kapten Tendean 1,Wanita,Solo,1992-08-18,2
+3501041203050073,Irfan Hakim,2025-07-16,82813456789,irfan.hakim@mail.com,Komplek Damai Sentosa H9,Laki-Laki,Pekanbaru,2000-04-05,1
+3501041203050074,Jessica Iskandar,2025-07-17,81224567890,jessica.i@mail.com,Jl. Semanggi No. 6,Wanita,Samarinda,1995-11-01,2
+3501041203050075,Krisdayanti,2025-07-17,85035678901,krisdayanti.k@mail.com,Perumahan Sehat Selalu A1,Wanita,Banjarmasin,1984-12-12,1
+3501041203050076,Luna Maya,2025-07-18,87146789012,luna.maya@mail.com,Jl. Kemerdekaan 17,Wanita,Padang,1998-03-27,2
+3501041203050077,Maia Estianty,2025-07-18,82657890123,maia.e@mail.com,Gg. Sempit No. 3,Wanita,Denpasar,1993-09-14,2
+3501041203050078,Nicholas Saputra,2025-07-19,81368901234,nicholas.s@mail.com,Jl. Ratu Agung 22,Laki-Laki,Makassar,1987-06-30,1
+3501041203050079,Omesh,2025-07-19,85479012345,omesh.o@mail.com,Komplek Senayan City D5,Laki-Laki,Jakarta,2003-01-21,2
+3501041203050080,Prilly Latuconsina,2025-07-20,87580123456,prilly.l@mail.com,Jl. Hang Tuah 13,Wanita,Surabaya,1996-04-08,2
+3501041203050081,Reza Rahadian,2025-07-20,82991234567,reza.rahadian@mail.com,Perumahan Eksklusif No. 7,Laki-Laki,Bandung,1991-07-17,1
+3501041203050082,Sandra Dewi,2025-07-21,81002345678,sandra.dewi@mail.com,Jl. Kuda Lari 99,Wanita,Yogyakarta,1985-02-02,2
+3501041203050083,Tukul Arwana,2025-07-21,85313456789,tukul.arwana@mail.com,Gg. Panjang 11,Laki-Laki,Medan,1999-08-26,1
+3501041203050084,Uut Permatasari,2025-07-22,87424567890,uut.p@mail.com,Jl. Pahlawan 3A,Wanita,Semarang,1994-04-20,2
+3501041203050085,Verrell Bramasta,2025-07-22,82835678901,verrell.b@mail.com,Komplek Ceria Blok B10,Laki-Laki,Malang,1989-11-13,2
+3501041203050086,Wulan Sari,2025-07-23,81246789012,wulan.sari@mail.com,Jl. Angkasa No. 1,Wanita,Jakarta,2001-06-01,1
+3501041203050087,Yayan Ruhian,2025-07-23,85057890123,yayan.r@mail.com,Perumahan Bahagia Hati 5,Laki-Laki,Surabaya,1996-12-25,2
+3501041203050088,Ziva Magnolya,2025-07-24,87168901234,ziva.m@mail.com,Jl. Rusa 8,Wanita,Bandung,1990-07-10,1
+3501041203050089,Adipati Dolken,2025-07-24,82679012345,adipati.d@mail.com,Gg. Lebar 15,Laki-Laki,Bekasi,1984-01-04,2
+3501041203050090,Beby Tsabina,2025-07-25,81380123456,beby.tsabina@mail.com,Jl. Jenderal Sudirman 2,Wanita,Bogor,1998-10-17,2
+3501041203050091,Cinta Laura,2025-07-25,85491234567,cinta.laura@mail.com,Komplek Mewah Abadi C3,Wanita,Gresik,1993-05-30,1
+3501041203050092,Dimas Anggara,2025-07-26,87502345678,dimas.a@mail.com,Jl. Bromo 40,Laki-Laki,Sidoarjo,2000-11-08,2
+3501041203050093,Enzy Storia,2025-07-26,82913456789,enzy.storia@mail.com,Perumahan Hijau Asri L4,Wanita,Palembang,1995-02-13,1
+3501041203050094,Febby Rastanty,2025-07-27,81024567890,febby.r@mail.com,Jl. Melati No. 19,Wanita,Makassar,1989-08-07,2
+3501041203050095,Ge Pamungkas,2025-07-27,85335678901,ge.p@mail.com,Gg. Sunyi No. 12,Laki-Laki,Depok,1996-03-02,2
+3501041203050096,Hanung Bramantyo,2025-07-28,87446789012,hanung.b@mail.com,Jl. Perjuangan 60,Laki-Laki,Tangerang,1991-10-28,1
+3501041203050097,Isyana Sarasvati,2025-07-28,82857890123,isyana.s@mail.com,Komplek Duta Indah F7,Wanita,Cirebon,1994-05-18,2
+3501041203050098,Jefri Nichol,2025-07-29,81268901234,jefri.nichol@mail.com,Jl. Sam Ratulangi 27,Laki-Laki,Solo,2002-12-04,2
+3501041203050099,Kaesang Pangarep,2025-07-29,85079012345,kaesang.p@mail.com,Perumahan Rakyat C2,Laki-Laki,Pekanbaru,1985-07-23,1
+3501041203050100,Laura Basuki,2025-07-30,87180123456,laura.basuki@mail.com,Jl. Menteng Raya 8,Wanita,Samarinda,1999-01-06,2
+3501041203050101,Morgan Oey,2025-07-30,82691234567,morgan.oey@mail.com,Gg. Miring No. 4,Laki-Laki,Banjarmasin,1992-06-20,1
+3501041203050102,Nabila Syakieb,2025-07-31,81302345678,nabila.s@mail.com,Jl. Buah Batu 55,Wanita,Padang,1987-11-29,2
+3501041203050103,Once Mekel,2025-07-31,85413456789,once.mekel@mail.com,Komplek Nirwana Blok J1,Laki-Laki,Denpasar,2001-04-11,2
+3501041203050104,Pasha Ungu,2025-08-01,87524567890,pasha.ungu@mail.com,Jl. Pangeran Antasari 30,Laki-Laki,Makassar,1996-09-08,1
+3501041203050105,Raisa Andriana,2025-08-01,82935678901,raisa.a@mail.com,Perumahan Nusa Tenggara 9,Wanita,Jakarta,1990-03-07,2
+3501041203050106,Samuel Rizal,2025-08-02,81046789012,samuel.rizal@mail.com,Jl. Ciliwung No. 1,Laki-Laki,Surabaya,1995-12-06,2
+3501041203050107,Tatjana Saphira,2025-08-02,85357890123,tatjana.s@mail.com,Gg. Pelangi 18,Wanita,Bandung,1988-06-14,1
+3501041203050108,Vidi Aldiano,2025-08-03,87468901234,vidi.a@mail.com,Jl. Merapi No. 2,Laki-Laki,Yogyakarta,2000-01-29,2
+3501041203050109,Wali Band,2025-08-03,82879012345,wali.band@mail.com,Komplek Perdana 4,Laki-Laki,Medan,1993-08-25,1
+3501041203050110,Yura Yunita,2025-08-04,81280123456,yura.yunita@mail.com,Jl. Danau Toba 10,Wanita,Semarang,1997-04-03,2
+3501041203050111,Afgan Syahreza,2025-08-04,85091234567,afgan.s@mail.com,Perumahan Elite A7,Laki-Laki,Malang,1992-11-17,2
+3501041203050112,Baim Wong,2025-08-05,87102345678,baim.wong@mail.com,Jl. Kapuas No. 33,Laki-Laki,Jakarta,1987-06-08,1
+3501041203050113,Chelsea Islan,2025-08-05,82613456789,chelsea.i@mail.com,Gg. Bahagia No. 25,Wanita,Surabaya,1998-01-03,2
+3501041203050114,Deddy Corbuzier,2025-08-06,81324567890,deddy.c@mail.com,Jl. Kucing No. 9,Laki-Laki,Bandung,1993-10-19,1
+3501041203050115,Ernest Prakasa,2025-08-06,85435678901,ernest.p@mail.com,Komplek Cempaka Sari H5,Laki-Laki,Bekasi,1986-05-13,2
+3501041203050116,Fedi Nuril,2025-08-07,87546789012,fedi.nuril@mail.com,Jl. Anggrek No. 14,Laki-Laki,Bogor,1991-12-07,2
+3501041203050117,Gisella Anastasia,2025-08-07,82957890123,gisella.a@mail.com,Perumahan Damai Blok B9,Wanita,Gresik,1996-06-21,1
+3501041203050118,Hesti Agustin,2025-08-08,81068901234,hesti.agustin@mail.com,Jl. Jati No. 5,Wanita,Sidoarjo,1989-01-15,2
+3501041203050119,Indra Herlambang,2025-08-08,85379012345,indra.h@mail.com,Gg. Sunyi 7,Laki-Laki,Palembang,2002-09-09,1
+3501041203050120,Jasmine Suraya,2025-08-09,87480123456,jasmine.s@mail.com,Jl. Kembang Setaman 2,Wanita,Makassar,1995-04-24,2
+3501041203050121,Kevin Aprilio,2025-08-09,82891234567,kevin.aprilio@mail.com,Komplek Asri Makmur M1,Laki-Laki,Depok,1990-11-03,2
+3501041203050122,Lesti Kejora,2025-08-10,81202345678,lesti.kejora@mail.com,Jl. Merpati No. 17,Wanita,Tangerang,1984-06-27,1
+3501041203050123,Ma'ruf Amin,2025-08-10,85013456789,maruf.amin@mail.com,Perumahan Sejuk Abadi No. 5,Laki-Laki,Cirebon,1998-03-01,2
+3501041203050124,Nagita Slavina,2025-08-11,87124567890,nagita.s@mail.com,Jl. Gunung Agung 3,Wanita,Solo,1993-09-16,2
+3501041203050125,Okan Kornelius,2025-08-11,82635678901,okan.k@mail.com,Gg. Damai 4,Laki-Laki,Pekanbaru,1987-04-10,1
+3501041203050126,Paundra Karna,2025-08-12,81346789012,paundra.k@mail.com,Jl. Raya Barat Km. 10,Laki-Laki,Samarinda,2001-11-28,2
+3501041203050127,Raffi Ahmad,2025-08-12,85457890123,raffi.ahmad@mail.com,Komplek Elok Permai J2,Laki-Laki,Banjarmasin,1996-05-20,2
+3501041203050128,Syahrini,2025-08-13,87568901234,syahrini.s@mail.com,Jl. Pantai Indah 4,Wanita,Padang,1990-02-04,1
+3501041203050129,Tissa Biani,2025-08-13,82979012345,tissa.biani@mail.com,Perumahan Nusa Jaya G6,Wanita,Denpasar,1995-09-23,2
+3501041203050130,Uya Kuya,2025-08-14,81080123456,uya.kuya@mail.com,Jl. Cepat Tepat 12,Laki-Laki,Makassar,1988-04-28,1
+3501041203050131,Angelina Jolie,2025-08-14,85391234567,angelina.j@mail.com,Jl. Hollywood Utara 20,Wanita,Jakarta,1994-07-07,2
+3501041203050132,Brad Pitt,2025-08-15,87402345678,brad.pitt@mail.com,Komplek Beverly Hills A1,Laki-Laki,Surabaya,1985-02-02,1
+3501041203050133,Taylor Swift,2025-08-15,82813456789,taylor.s@mail.com,Jl. Manhattan No. 5,Wanita,Bandung,2000-01-29,2
+3501041203050134,Elon Musk,2025-08-16,81224567890,elon.musk@mail.com,Perumahan SpaceX M1,Laki-Laki,Yogyakarta,1993-08-25,1
+3501041203050135,Oprah Winfrey,2025-08-16,85035678901,oprah.w@mail.com,Gg. Media Raya 11,Wanita,Medan,1987-06-08,2
+3501041203050136,Leonardo DiCaprio,2025-08-17,87146789012,leo.d@mail.com,Jl. Titanic 1997,Laki-Laki,Semarang,1998-01-03,2
+3501041203050137,Gal Gadot,2025-08-17,82657890123,gal.gadot@mail.com,Komplek Wonder Woman 7,Wanita,Malang,1993-10-19,1
+3501041203050138,Cristiano Ronaldo,2025-08-18,81368901234,cristiano.r@mail.com,Jl. Lapangan Hijau 7,Laki-Laki,Jakarta,1986-05-13,2
+3501041203050139,Ariana Grande,2025-08-18,85479012345,ariana.g@mail.com,Perumahan Thank U Next,Wanita,Surabaya,1991-12-07,1
+3501041203050140,Bill Gates,2025-08-19,87580123456,bill.gates@mail.com,Jl. Windows 10,Laki-Laki,Bandung,1996-06-21,2
+3501041203050141,Michelle Obama,2025-08-19,82991234567,michelle.o@mail.com,Gg. Gedung Putih 1,Wanita,Bekasi,1989-01-15,1
+3501041203050142,Tom Cruise,2025-08-20,81002345678,tom.cruise@mail.com,Jl. Misi Mustahil 6,Laki-Laki,Bogor,2002-09-09,2
+3501041203050143,Rihanna,2025-08-20,85313456789,rihanna.r@mail.com,Jl. Umbrella No. 1,Wanita,Gresik,1995-04-24,2
+3501041203050144,Jeff Bezos,2025-08-21,87424567890,jeff.bezos@mail.com,Komplek Amazon Z99,Laki-Laki,Sidoarjo,1990-11-03,1
+3501041203050145,Kylie Jenner,2025-08-21,82835678901,kylie.j@mail.com,Jl. Lip Kit No. 22,Wanita,Palembang,1984-06-27,2
+3501041203050146,Mark Zuckerberg,2025-08-22,81246789012,mark.z@mail.com,Perumahan Facebook F5,Laki-Laki,Makassar,1998-03-01,1
+3501041203050147,Beyoncé,2025-08-22,85057890123,beyonce.b@mail.com,Gg. Single Ladies 44,Wanita,Depok,1993-09-16,2
+3501041203050148,Barack Obama,2025-08-23,87168901234,barack.o@mail.com,Jl. Change We Can Believe,Laki-Laki,Tangerang,1987-04-10,1
+3501041203050149,Madonna,2025-08-23,82679012345,madonna.m@mail.com,Komplek Material Girl 1,Wanita,Cirebon,2001-11-28,2
+3501041203050150,George Clooney,2025-08-24,81380123456,george.c@mail.com,Jl. Ocean's Eleven,Laki-Laki,Solo,1996-05-20,2
+3501041203050151,Adele,2025-08-24,85491234567,adele.a@mail.com,Perumahan Hello F5,Wanita,Pekanbaru,1990-02-04,1
+3501041203050152,Dwayne Johnson,2025-08-25,87502345678,dwayne.j@mail.com,Jl. The Rock 1,Laki-Laki,Samarinda,1995-09-23,2
+3501041203050153,Emma Watson,2025-08-25,82913456789,emma.w@mail.com,Gg. Harry Potter 3,Wanita,Banjarmasin,1988-04-28,1
+3501041203050154,Jackie Chan,2025-08-26,81024567890,jackie.c@mail.com,Jl. Kung Fu No. 8,Laki-Laki,Padang,1994-07-07,2
+3501041203050155,Lady Gaga,2025-08-26,85335678901,lady.gaga@mail.com,Komplek Bad Romance 911,Wanita,Denpasar,1985-02-02,1
+3501041203050156,Michael Jordan,2025-08-27,87446789012,michael.j@mail.com,Jl. Chicago Bulls 23,Laki-Laki,Makassar,2000-01-29,2
+3501041203050157,Jennifer Lopez,2025-08-27,82857890123,jlo.j@mail.com,Perumahan On The Floor 1,Wanita,Jakarta,1993-08-25,1
+3501041203050158,Will Smith,2025-08-28,81268901234,will.smith@mail.com,Jl. Men In Black 4,Laki-Laki,Surabaya,1987-06-08,2
+3501041203050159,Selena Gomez,2025-08-28,85079012345,selena.g@mail.com,Gg. Wizards Of Waverly,Wanita,Bandung,1998-01-03,2
+3501041203050160,Justin Timberlake,2025-08-29,87180123456,justin.t@mail.com,Jl. Sexy Back 10,Laki-Laki,Yogyakarta,1993-10-19,1
+3501041203050161,Demi Lovato,2025-08-29,82691234567,demi.l@mail.com,Komplek Camp Rock 2,Wanita,Medan,1986-05-13,2
+3501041203050162,Ryan Gosling,2025-08-30,81302345678,ryan.g@mail.com,Jl. La La Land 7,Laki-Laki,Semarang,1991-12-07,2
+3501041203050163,Jessica Alba,2025-08-30,85413456789,jessica.a@mail.com,Perumahan Sin City 5,Wanita,Malang,1996-06-21,1
+3501041203050164,Robert Downey Jr.,2025-08-31,87524567890,robert.d@mail.com,Jl. Iron Man 3000,Laki-Laki,Jakarta,1989-01-15,2
+3501041203050165,Scarlett Johansson,2025-08-31,82935678901,scarlett.j@mail.com,Gg. Black Widow 1,Wanita,Surabaya,2002-09-09,1
+3501041203050166,Chris Evans,2025-09-01,81046789012,chris.e@mail.com,Jl. Captain America 1,Laki-Laki,Bandung,1995-04-24,2
+3501041203050167,Natalie Portman,2025-09-01,85357890123,natalie.p@mail.com,Komplek Black Swan 8,Wanita,Bekasi,1990-11-03,2
+3501041203050168,Zac Efron,2025-09-02,87468901234,zac.efron@mail.com,Jl. High School Musical,Laki-Laki,Bogor,1984-06-27,1
+3501041203050169,Mila Kunis,2025-09-02,82879012345,mila.kunis@mail.com,Perumahan That 70s Show,Wanita,Gresik,1998-03-01,2
+3501041203050170,Ashton Kutcher,2025-09-03,81280123456,ashton.k@mail.com,Gg. Jobs 19,Laki-Laki,Sidoarjo,1993-09-16,2

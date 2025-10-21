@@ -1,0 +1,101 @@
+Dokumen_ID,Nama_Dokumen,Pengacara_ID,Kasus_ID,Tanggal_Upload,Staf_ID,URL_Doc
+1,Surat Kuasa Gugatan Waris,13,1,2025-06-12,56,http://doc.hukum.com/kasus1_SK
+2,Laporan Polisi KDRT,44,2,2025-06-14,79,http://doc.hukum.com/kasus2_LP
+3,Permohonan Pailit,67,3,2025-06-18,11,http://doc.hukum.com/kasus3_PP
+4,Sertifikat Hak Cipta,80,4,2025-06-25,94,http://doc.hukum.com/kasus4_SHC
+5,Surat Gugatan Sengketa Tanah,17,5,2025-07-01,3,http://doc.hukum.com/kasus5_SG
+6,BAP Penggelapan Dana,31,6,2025-07-12,48,http://doc.hukum.com/kasus6_BAP
+7,Perjanjian Restrukturisasi,55,7,2025-07-16,22,http://doc.hukum.com/kasus7_PRU
+8,Formulir Pendaftaran Paten,99,8,2025-07-23,65,http://doc.hukum.com/kasus8_FPP
+9,Gugatan Perceraian,1,9,2025-07-28,88,http://doc.hukum.com/kasus9_GC
+10,Berita Acara Sidang Pencurian,40,10,2025-08-03,33,http://doc.hukum.com/kasus10_BAS
+11,Akta Merger & Akuisisi,53,11,2025-08-09,60,http://doc.hukum.com/kasus11_AMA
+12,Bukti Kepemilikan Merek,87,12,2025-08-14,14,http://doc.hukum.com/kasus12_BKM
+13,Surat Peringatan Wanprestasi,24,13,2025-08-18,91,http://doc.hukum.com/kasus13_SPW
+14,Hasil Lab Narkotika,35,14,2025-08-23,76,http://doc.hukum.com/kasus14_HLN
+15,Putusan Arbitrase Dagang,70,15,2025-08-28,8,http://doc.hukum.com/kasus15_PAD
+16,Dokumen Pendukung IG,92,16,2025-09-04,49,http://doc.hukum.com/kasus16_DPI
+17,Surat Tagihan Utang Piutang,10,17,2025-09-08,38,http://doc.hukum.com/kasus17_STU
+18,Bukti Transfer Penipuan,48,18,2025-09-12,72,http://doc.hukum.com/kasus18_BTP
+19,Daftar Kreditur PKPU,63,19,2025-09-19,97,http://doc.hukum.com/kasus19_DKP
+20,Perjanjian Rahasia Dagang,83,20,2025-09-21,29,http://doc.hukum.com/kasus20_PRD
+21,Akta Jual Beli Tanah,5,21,2025-09-28,54,http://doc.hukum.com/kasus21_AJB
+22,BAP Saksi Korupsi,26,22,2025-10-04,71,http://doc.hukum.com/kasus22_BAPS
+23,Kontrak Pembangunan,73,23,2025-10-08,16,http://doc.hukum.com/kasus23_KP
+24,Gambar Desain Industri,96,24,2025-10-14,82,http://doc.hukum.com/kasus24_GDI
+25,Bukti Pencemaran Nama Baik,9,25,2025-10-18,95,http://doc.hukum.com/kasus25_BPNB
+26,Visum Penganiayaan,45,26,2025-10-23,21,http://doc.hukum.com/kasus26_VPR
+27,Dokumen Obligasi,51,27,2025-10-29,36,http://doc.hukum.com/kasus27_DO
+28,Sertifikat PVT,84,28,2025-11-04,77,http://doc.hukum.com/kasus28_SPVT
+29,Daftar Aset Gono-gini,20,29,2025-11-08,59,http://doc.hukum.com/kasus29_DAG
+30,Dokumen Palsu,38,30,2025-11-12,10,http://doc.hukum.com/kasus30_DP
+31,Perjanjian Kredit Macet,68,31,2025-11-18,43,http://doc.hukum.com/kasus31_PKM
+32,Bukti Pelanggaran Ciptaan,77,32,2025-11-23,89,http://doc.hukum.com/kasus32_BPC
+33,Permohonan Adopsi,2,33,2025-11-28,6,http://doc.hukum.com/kasus33_PA
+34,Log Akses Cyber Crime,33,34,2025-12-04,52,http://doc.hukum.com/kasus34_LACC
+35,Sertifikat Saham,59,35,2025-12-08,75,http://doc.hukum.com/kasus35_SS
+36,Perjanjian Lisensi HKI,94,36,2025-12-13,18,http://doc.hukum.com/kasus36_PLH
+37,Sertifikat Tanah Sengketa,16,37,2025-12-18,62,http://doc.hukum.com/kasus37_STS
+38,Visum Kekerasan Seksual,36,38,2025-12-23,4,http://doc.hukum.com/kasus38_VKS
+39,Akta Pendirian PT,71,39,2026-01-03,84,http://doc.hukum.com/kasus39_APT
+40,Hasil Pemeriksaan Paten,88,40,2026-01-08,27,http://doc.hukum.com/kasus40_HPP
+41,Risalah Mediasi,21,41,2026-01-13,57,http://doc.hukum.com/kasus41_RM
+42,BAP Perampokan,47,42,2026-01-17,19,http://doc.hukum.com/kasus42_BAPr
+43,Kuitansi Ganti Rugi,58,43,2026-01-22,93,http://doc.hukum.com/kasus43_KGR
+44,Gambar DTLST,79,44,2026-01-28,34,http://doc.hukum.com/kasus44_GDT
+45,Kontrak Sewa Menyewa,11,45,2026-02-03,69,http://doc.hukum.com/kasus45_KSM
+46,Dokumen Bea Cukai,27,46,2026-02-08,2,http://doc.hukum.com/kasus46_DBC
+47,Bukti Pembelian Cacat,69,47,2026-02-12,46,http://doc.hukum.com/kasus47_BPCc
+48,Sertifikat Perpanjangan Merek,93,48,2026-02-17,81,http://doc.hukum.com/kasus48_SPM
+49,Kontrak Kerja Karyawan,14,49,2026-02-22,28,http://doc.hukum.com/kasus49_KKK
+50,Screenshot Media Sosial,42,50,2026-02-27,50,http://doc.hukum.com/kasus50_SMS
+51,Perjanjian Kerjasama,56,51,2026-03-04,86,http://doc.hukum.com/kasus51_PKS
+52,Notaris Pendaftaran Cipta,90,52,2026-03-08,70,http://doc.hukum.com/kasus52_NPC
+53,Akta Nikah & KK,3,53,2026-03-13,20,http://doc.hukum.com/kasus53_ANKK
+54,Invoice Impor Ilegal,49,54,2026-03-18,47,http://doc.hukum.com/kasus54_II
+55,Akta Penyertaan Modal,75,55,2026-03-22,98,http://doc.hukum.com/kasus55_APM
+56,Perjanjian Penciptaan Bersama,86,56,2026-03-28,30,http://doc.hukum.com/kasus56_PPB
+57,Perjanjian Jual Beli,7,57,2026-04-03,61,http://doc.hukum.com/kasus57_PJB
+58,Bukti Chat Penipuan Online,28,58,2026-04-08,40,http://doc.hukum.com/kasus58_BCPO
+59,Prospektus Saham,57,59,2026-04-13,83,http://doc.hukum.com/kasus59_PS
+60,Klaim Pelanggaran Paten,95,60,2026-04-18,55,http://doc.hukum.com/kasus60_KPP
+61,Gugatan Intervensi,22,61,2026-04-23,7,http://doc.hukum.com/kasus61_GI
+62,Laporan Visum Anak,37,62,2026-04-28,42,http://doc.hukum.com/kasus62_LVA
+63,Kontrak Leasing,74,63,2026-05-03,99,http://doc.hukum.com/kasus63_KL
+64,Bukti Pendaftaran Merek,81,64,2026-05-08,15,http://doc.hukum.com/kasus64_BPM
+65,Permohonan Intervensi,8,65,2026-05-13,64,http://doc.hukum.com/kasus65_PI
+66,Laporan Polisi Perzinahan,32,66,2026-05-18,96,http://doc.hukum.com/kasus66_LPP
+67,Rekening Koran Bank,52,67,2026-05-23,5,http://doc.hukum.com/kasus67_RKB
+68,Data Pemilik HKI,91,68,2026-05-28,66,http://doc.hukum.com/kasus68_DPH
+69,Perjanjian Lintas Negara,15,69,2026-06-03,39,http://doc.hukum.com/kasus69_PLN
+70,Bukti Digital Pornografi,41,70,2026-06-08,41,http://doc.hukum.com/kasus70_BDP
+71,Kontrak Kredit KPR,60,71,2026-06-13,9,http://doc.hukum.com/kasus71_KKKPR
+72,Dokumen Merek Kolektif,85,72,2026-06-18,63,http://doc.hukum.com/kasus72_DMK
+73,Surat Permohonan Wali,23,73,2026-06-23,37,http://doc.hukum.com/kasus73_SPW
+74,BAP Pencurian,29,74,2026-06-28,78,http://doc.hukum.com/kasus74_BAPc
+75,Putusan Arbitrase,64,75,2026-07-03,12,http://doc.hukum.com/kasus75_PA
+76,Bukti Penggunaan Rekaman,100,76,2026-07-08,24,http://doc.hukum.com/kasus76_BPR
+77,Surat Gugatan Bank,6,77,2026-07-13,58,http://doc.hukum.com/kasus77_SGB
+78,Visum Penganiayaan Ringan,46,78,2026-07-18,85,http://doc.hukum.com/kasus78_VPR
+79,Laporan Keuangan Korporasi,61,79,2026-07-23,23,http://doc.hukum.com/kasus79_LKK
+80,Bukti Penggunaan Musik,82,80,2026-07-28,73,http://doc.hukum.com/kasus80_BPM
+81,Perjanjian Kerjasama Proyek,18,81,2026-08-03,67,http://doc.hukum.com/kasus81_PKS
+82,Visum Pencabulan,34,82,2026-08-08,35,http://doc.hukum.com/kasus82_VPc
+83,Dokumen Ekspor-Impor,72,83,2026-08-13,100,http://doc.hukum.com/kasus83_DEI
+84,Permohonan Paten Sederhana,98,84,2026-08-18,25,http://doc.hukum.com/kasus84_PPS
+85,Akta Hibah,4,85,2026-08-23,68,http://doc.hukum.com/kasus85_AH
+86,Screenshot Berita Bohong,50,86,2026-08-28,45,http://doc.hukum.com/kasus86_SBB
+87,Dokumen Transaksi Saham,54,87,2026-09-03,74,http://doc.hukum.com/kasus87_DTS
+88,Bukti Indikasi Geografis,76,88,2026-09-08,26,http://doc.hukum.com/kasus88_BIG
+89,Perjanjian Sewa-Beli,12,89,2026-09-13,77,http://doc.hukum.com/kasus89_PSB
+90,Visum Kekerasan Fisik,30,90,2026-09-18,51,http://doc.hukum.com/kasus90_VKF
+91,Laporan KPPU,65,91,2026-09-23,80,http://doc.hukum.com/kasus91_LK
+92,Permohonan Pendaftaran Merek,89,92,2026-09-28,17,http://doc.hukum.com/kasus92_PPM
+93,Bukti Perusakan Properti,19,93,2026-10-03,44,http://doc.hukum.com/kasus93_BPP
+94,BAP Pembunuhan,43,94,2026-10-08,92,http://doc.hukum.com/kasus94_BAPb
+95,Perjanjian Modal Ventura,62,95,2026-10-13,10,http://doc.hukum.com/kasus95_PMV
+96,Kontrak Penampilan Artis,97,96,2026-10-18,4,http://doc.hukum.com/kasus96_KPA
+97,Sertifikat Objek Sengketa,25,97,2026-10-23,32,http://doc.hukum.com/kasus97_SOS
+98,Media Cetak Penghinaan,39,98,2026-10-28,87,http://doc.hukum.com/kasus98_MCP
+99,Perjanjian Konsorsium,66,99,2026-11-03,1,http://doc.hukum.com/kasus99_PK
+100,Naskah Novel,78,100,2026-11-08,31,http://doc.hukum.com/kasus100_NN
