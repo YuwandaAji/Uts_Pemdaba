@@ -4,7 +4,4 @@ SELECT a.staf_id, a.nama_staf, (
 	WHERE k.staf_id = a.staf_id
 ) AS jumlah
 FROM staf_administrasi AS a
-ORDER BY jumlah DESC;
-
-
-
+ORDER BY jumlah ASC;

@@ -9,4 +9,3 @@ WHERE EXISTS (
 	FROM kasus AS ks
 	WHERE kl.nik = ks.nik AND ks.status_kasus = 'Selesai')
 ORDER BY lama_kasus DESC;
-
